@@ -1,0 +1,3121 @@
+ano,mes,estado,regiao,bioma,focos
+2015,1,AC,Norte,Amazônia,307
+2015,1,AM,Norte,Amazônia,436
+2015,1,AP,Norte,Amazônia,387
+2015,1,PA,Norte,Amazônia,358
+2015,1,RO,Norte,Amazônia,258
+2015,1,RR,Norte,Amazônia,258
+2015,1,TO,Norte,Cerrado,237
+2015,1,AL,Nordeste,Mata Atlântica,104
+2015,1,BA,Nordeste,Caatinga,89
+2015,1,CE,Nordeste,Caatinga,95
+2015,1,MA,Nordeste,Cerrado,228
+2015,1,PB,Nordeste,Caatinga,110
+2015,1,PE,Nordeste,Caatinga,102
+2015,1,PI,Nordeste,Caatinga,67
+2015,1,RN,Nordeste,Caatinga,66
+2015,1,SE,Nordeste,Caatinga,66
+2015,1,GO,Centro-Oeste,Cerrado,292
+2015,1,MS,Centro-Oeste,Cerrado,341
+2015,1,MT,Centro-Oeste,Cerrado,320
+2015,1,ES,Sudeste,Mata Atlântica,72
+2015,1,MG,Sudeste,Cerrado,361
+2015,1,RJ,Sudeste,Mata Atlântica,63
+2015,1,SP,Sudeste,Mata Atlântica,72
+2015,1,PR,Sul,Mata Atlântica,76
+2015,1,RS,Sul,Pampa,81
+2015,1,SC,Sul,Mata Atlântica,99
+2015,2,AC,Norte,Amazônia,268
+2015,2,AM,Norte,Amazônia,339
+2015,2,AP,Norte,Amazônia,356
+2015,2,PA,Norte,Amazônia,234
+2015,2,RO,Norte,Amazônia,360
+2015,2,RR,Norte,Amazônia,262
+2015,2,TO,Norte,Cerrado,238
+2015,2,AL,Nordeste,Mata Atlântica,109
+2015,2,BA,Nordeste,Caatinga,110
+2015,2,CE,Nordeste,Caatinga,101
+2015,2,MA,Nordeste,Cerrado,292
+2015,2,PB,Nordeste,Caatinga,61
+2015,2,PE,Nordeste,Caatinga,94
+2015,2,PI,Nordeste,Caatinga,80
+2015,2,RN,Nordeste,Caatinga,62
+2015,2,SE,Nordeste,Caatinga,83
+2015,2,GO,Centro-Oeste,Cerrado,231
+2015,2,MS,Centro-Oeste,Cerrado,427
+2015,2,MT,Centro-Oeste,Cerrado,281
+2015,2,ES,Sudeste,Mata Atlântica,93
+2015,2,MG,Sudeste,Cerrado,293
+2015,2,RJ,Sudeste,Mata Atlântica,85
+2015,2,SP,Sudeste,Mata Atlântica,86
+2015,2,PR,Sul,Mata Atlântica,66
+2015,2,RS,Sul,Pampa,110
+2015,2,SC,Sul,Mata Atlântica,99
+2015,3,AC,Norte,Amazônia,434
+2015,3,AM,Norte,Amazônia,424
+2015,3,AP,Norte,Amazônia,357
+2015,3,PA,Norte,Amazônia,430
+2015,3,RO,Norte,Amazônia,243
+2015,3,RR,Norte,Amazônia,267
+2015,3,TO,Norte,Cerrado,234
+2015,3,AL,Nordeste,Mata Atlântica,74
+2015,3,BA,Nordeste,Caatinga,77
+2015,3,CE,Nordeste,Caatinga,71
+2015,3,MA,Nordeste,Cerrado,409
+2015,3,PB,Nordeste,Caatinga,75
+2015,3,PE,Nordeste,Caatinga,71
+2015,3,PI,Nordeste,Caatinga,86
+2015,3,RN,Nordeste,Caatinga,63
+2015,3,SE,Nordeste,Caatinga,100
+2015,3,GO,Centro-Oeste,Cerrado,240
+2015,3,MS,Centro-Oeste,Cerrado,445
+2015,3,MT,Centro-Oeste,Cerrado,396
+2015,3,ES,Sudeste,Mata Atlântica,67
+2015,3,MG,Sudeste,Cerrado,225
+2015,3,RJ,Sudeste,Mata Atlântica,101
+2015,3,SP,Sudeste,Mata Atlântica,95
+2015,3,PR,Sul,Mata Atlântica,96
+2015,3,RS,Sul,Pampa,99
+2015,3,SC,Sul,Mata Atlântica,60
+2015,4,AC,Norte,Amazônia,304
+2015,4,AM,Norte,Amazônia,249
+2015,4,AP,Norte,Amazônia,417
+2015,4,PA,Norte,Amazônia,363
+2015,4,RO,Norte,Amazônia,298
+2015,4,RR,Norte,Amazônia,238
+2015,4,TO,Norte,Cerrado,293
+2015,4,AL,Nordeste,Mata Atlântica,74
+2015,4,BA,Nordeste,Caatinga,96
+2015,4,CE,Nordeste,Caatinga,91
+2015,4,MA,Nordeste,Cerrado,422
+2015,4,PB,Nordeste,Caatinga,82
+2015,4,PE,Nordeste,Caatinga,62
+2015,4,PI,Nordeste,Caatinga,95
+2015,4,RN,Nordeste,Caatinga,98
+2015,4,SE,Nordeste,Caatinga,87
+2015,4,GO,Centro-Oeste,Cerrado,396
+2015,4,MS,Centro-Oeste,Cerrado,334
+2015,4,MT,Centro-Oeste,Cerrado,341
+2015,4,ES,Sudeste,Mata Atlântica,79
+2015,4,MG,Sudeste,Cerrado,229
+2015,4,RJ,Sudeste,Mata Atlântica,62
+2015,4,SP,Sudeste,Mata Atlântica,57
+2015,4,PR,Sul,Mata Atlântica,91
+2015,4,RS,Sul,Pampa,73
+2015,4,SC,Sul,Mata Atlântica,84
+2015,5,AC,Norte,Amazônia,427
+2015,5,AM,Norte,Amazônia,279
+2015,5,AP,Norte,Amazônia,315
+2015,5,PA,Norte,Amazônia,393
+2015,5,RO,Norte,Amazônia,275
+2015,5,RR,Norte,Amazônia,241
+2015,5,TO,Norte,Cerrado,288
+2015,5,AL,Nordeste,Mata Atlântica,65
+2015,5,BA,Nordeste,Caatinga,108
+2015,5,CE,Nordeste,Caatinga,101
+2015,5,MA,Nordeste,Cerrado,365
+2015,5,PB,Nordeste,Caatinga,104
+2015,5,PE,Nordeste,Caatinga,101
+2015,5,PI,Nordeste,Caatinga,66
+2015,5,RN,Nordeste,Caatinga,105
+2015,5,SE,Nordeste,Caatinga,86
+2015,5,GO,Centro-Oeste,Cerrado,404
+2015,5,MS,Centro-Oeste,Cerrado,424
+2015,5,MT,Centro-Oeste,Cerrado,295
+2015,5,ES,Sudeste,Mata Atlântica,62
+2015,5,MG,Sudeste,Cerrado,275
+2015,5,RJ,Sudeste,Mata Atlântica,79
+2015,5,SP,Sudeste,Mata Atlântica,101
+2015,5,PR,Sul,Mata Atlântica,104
+2015,5,RS,Sul,Pampa,56
+2015,5,SC,Sul,Mata Atlântica,84
+2015,6,AC,Norte,Amazônia,317
+2015,6,AM,Norte,Amazônia,273
+2015,6,AP,Norte,Amazônia,250
+2015,6,PA,Norte,Amazônia,299
+2015,6,RO,Norte,Amazônia,435
+2015,6,RR,Norte,Amazônia,296
+2015,6,TO,Norte,Cerrado,340
+2015,6,AL,Nordeste,Mata Atlântica,95
+2015,6,BA,Nordeste,Caatinga,76
+2015,6,CE,Nordeste,Caatinga,110
+2015,6,MA,Nordeste,Cerrado,439
+2015,6,PB,Nordeste,Caatinga,70
+2015,6,PE,Nordeste,Caatinga,83
+2015,6,PI,Nordeste,Caatinga,72
+2015,6,RN,Nordeste,Caatinga,71
+2015,6,SE,Nordeste,Caatinga,58
+2015,6,GO,Centro-Oeste,Cerrado,360
+2015,6,MS,Centro-Oeste,Cerrado,336
+2015,6,MT,Centro-Oeste,Cerrado,235
+2015,6,ES,Sudeste,Mata Atlântica,71
+2015,6,MG,Sudeste,Cerrado,427
+2015,6,RJ,Sudeste,Mata Atlântica,69
+2015,6,SP,Sudeste,Mata Atlântica,64
+2015,6,PR,Sul,Mata Atlântica,83
+2015,6,RS,Sul,Pampa,111
+2015,6,SC,Sul,Mata Atlântica,69
+2015,7,AC,Norte,Amazônia,2340
+2015,7,AM,Norte,Amazônia,2466
+2015,7,AP,Norte,Amazônia,1732
+2015,7,PA,Norte,Amazônia,2419
+2015,7,RO,Norte,Amazônia,1914
+2015,7,RR,Norte,Amazônia,2285
+2015,7,TO,Norte,Cerrado,2286
+2015,7,AL,Nordeste,Mata Atlântica,537
+2015,7,BA,Nordeste,Caatinga,381
+2015,7,CE,Nordeste,Caatinga,642
+2015,7,MA,Nordeste,Cerrado,1849
+2015,7,PB,Nordeste,Caatinga,415
+2015,7,PE,Nordeste,Caatinga,364
+2015,7,PI,Nordeste,Caatinga,556
+2015,7,RN,Nordeste,Caatinga,587
+2015,7,SE,Nordeste,Caatinga,355
+2015,7,GO,Centro-Oeste,Cerrado,2116
+2015,7,MS,Centro-Oeste,Cerrado,1717
+2015,7,MT,Centro-Oeste,Cerrado,2303
+2015,7,ES,Sudeste,Mata Atlântica,411
+2015,7,MG,Sudeste,Cerrado,2367
+2015,7,RJ,Sudeste,Mata Atlântica,485
+2015,7,SP,Sudeste,Mata Atlântica,677
+2015,7,PR,Sul,Mata Atlântica,398
+2015,7,RS,Sul,Pampa,469
+2015,7,SC,Sul,Mata Atlântica,389
+2015,8,AC,Norte,Amazônia,2694
+2015,8,AM,Norte,Amazônia,2628
+2015,8,AP,Norte,Amazônia,1761
+2015,8,PA,Norte,Amazônia,2323
+2015,8,RO,Norte,Amazônia,2544
+2015,8,RR,Norte,Amazônia,2177
+2015,8,TO,Norte,Cerrado,2141
+2015,8,AL,Nordeste,Mata Atlântica,434
+2015,8,BA,Nordeste,Caatinga,382
+2015,8,CE,Nordeste,Caatinga,664
+2015,8,MA,Nordeste,Cerrado,2660
+2015,8,PB,Nordeste,Caatinga,571
+2015,8,PE,Nordeste,Caatinga,468
+2015,8,PI,Nordeste,Caatinga,472
+2015,8,RN,Nordeste,Caatinga,604
+2015,8,SE,Nordeste,Caatinga,663
+2015,8,GO,Centro-Oeste,Cerrado,2641
+2015,8,MS,Centro-Oeste,Cerrado,2491
+2015,8,MT,Centro-Oeste,Cerrado,2298
+2015,8,ES,Sudeste,Mata Atlântica,379
+2015,8,MG,Sudeste,Cerrado,1626
+2015,8,RJ,Sudeste,Mata Atlântica,664
+2015,8,SP,Sudeste,Mata Atlântica,562
+2015,8,PR,Sul,Mata Atlântica,353
+2015,8,RS,Sul,Pampa,385
+2015,8,SC,Sul,Mata Atlântica,582
+2015,9,AC,Norte,Amazônia,1407
+2015,9,AM,Norte,Amazônia,1625
+2015,9,AP,Norte,Amazônia,2168
+2015,9,PA,Norte,Amazônia,2368
+2015,9,RO,Norte,Amazônia,2312
+2015,9,RR,Norte,Amazônia,1713
+2015,9,TO,Norte,Cerrado,2397
+2015,9,AL,Nordeste,Mata Atlântica,433
+2015,9,BA,Nordeste,Caatinga,463
+2015,9,CE,Nordeste,Caatinga,611
+2015,9,MA,Nordeste,Cerrado,2309
+2015,9,PB,Nordeste,Caatinga,647
+2015,9,PE,Nordeste,Caatinga,580
+2015,9,PI,Nordeste,Caatinga,548
+2015,9,RN,Nordeste,Caatinga,382
+2015,9,SE,Nordeste,Caatinga,478
+2015,9,GO,Centro-Oeste,Cerrado,1771
+2015,9,MS,Centro-Oeste,Cerrado,1741
+2015,9,MT,Centro-Oeste,Cerrado,2762
+2015,9,ES,Sudeste,Mata Atlântica,487
+2015,9,MG,Sudeste,Cerrado,2648
+2015,9,RJ,Sudeste,Mata Atlântica,570
+2015,9,SP,Sudeste,Mata Atlântica,628
+2015,9,PR,Sul,Mata Atlântica,525
+2015,9,RS,Sul,Pampa,551
+2015,9,SC,Sul,Mata Atlântica,522
+2015,10,AC,Norte,Amazônia,1673
+2015,10,AM,Norte,Amazônia,2411
+2015,10,AP,Norte,Amazônia,1793
+2015,10,PA,Norte,Amazônia,1434
+2015,10,RO,Norte,Amazônia,2303
+2015,10,RR,Norte,Amazônia,1647
+2015,10,TO,Norte,Cerrado,2716
+2015,10,AL,Nordeste,Mata Atlântica,683
+2015,10,BA,Nordeste,Caatinga,670
+2015,10,CE,Nordeste,Caatinga,479
+2015,10,MA,Nordeste,Cerrado,1421
+2015,10,PB,Nordeste,Caatinga,674
+2015,10,PE,Nordeste,Caatinga,499
+2015,10,PI,Nordeste,Caatinga,688
+2015,10,RN,Nordeste,Caatinga,687
+2015,10,SE,Nordeste,Caatinga,648
+2015,10,GO,Centro-Oeste,Cerrado,1812
+2015,10,MS,Centro-Oeste,Cerrado,1939
+2015,10,MT,Centro-Oeste,Cerrado,2591
+2015,10,ES,Sudeste,Mata Atlântica,460
+2015,10,MG,Sudeste,Cerrado,1637
+2015,10,RJ,Sudeste,Mata Atlântica,544
+2015,10,SP,Sudeste,Mata Atlântica,677
+2015,10,PR,Sul,Mata Atlântica,593
+2015,10,RS,Sul,Pampa,549
+2015,10,SC,Sul,Mata Atlântica,384
+2015,11,AC,Norte,Amazônia,361
+2015,11,AM,Norte,Amazônia,445
+2015,11,AP,Norte,Amazônia,255
+2015,11,PA,Norte,Amazônia,340
+2015,11,RO,Norte,Amazônia,420
+2015,11,RR,Norte,Amazônia,389
+2015,11,TO,Norte,Cerrado,380
+2015,11,AL,Nordeste,Mata Atlântica,95
+2015,11,BA,Nordeste,Caatinga,76
+2015,11,CE,Nordeste,Caatinga,72
+2015,11,MA,Nordeste,Cerrado,405
+2015,11,PB,Nordeste,Caatinga,101
+2015,11,PE,Nordeste,Caatinga,104
+2015,11,PI,Nordeste,Caatinga,107
+2015,11,RN,Nordeste,Caatinga,84
+2015,11,SE,Nordeste,Caatinga,84
+2015,11,GO,Centro-Oeste,Cerrado,402
+2015,11,MS,Centro-Oeste,Cerrado,369
+2015,11,MT,Centro-Oeste,Cerrado,381
+2015,11,ES,Sudeste,Mata Atlântica,100
+2015,11,MG,Sudeste,Cerrado,423
+2015,11,RJ,Sudeste,Mata Atlântica,74
+2015,11,SP,Sudeste,Mata Atlântica,77
+2015,11,PR,Sul,Mata Atlântica,61
+2015,11,RS,Sul,Pampa,88
+2015,11,SC,Sul,Mata Atlântica,58
+2015,12,AC,Norte,Amazônia,328
+2015,12,AM,Norte,Amazônia,345
+2015,12,AP,Norte,Amazônia,288
+2015,12,PA,Norte,Amazônia,356
+2015,12,RO,Norte,Amazônia,230
+2015,12,RR,Norte,Amazônia,232
+2015,12,TO,Norte,Cerrado,408
+2015,12,AL,Nordeste,Mata Atlântica,76
+2015,12,BA,Nordeste,Caatinga,63
+2015,12,CE,Nordeste,Caatinga,85
+2015,12,MA,Nordeste,Cerrado,396
+2015,12,PB,Nordeste,Caatinga,68
+2015,12,PE,Nordeste,Caatinga,90
+2015,12,PI,Nordeste,Caatinga,60
+2015,12,RN,Nordeste,Caatinga,58
+2015,12,SE,Nordeste,Caatinga,85
+2015,12,GO,Centro-Oeste,Cerrado,345
+2015,12,MS,Centro-Oeste,Cerrado,366
+2015,12,MT,Centro-Oeste,Cerrado,386
+2015,12,ES,Sudeste,Mata Atlântica,110
+2015,12,MG,Sudeste,Cerrado,339
+2015,12,RJ,Sudeste,Mata Atlântica,74
+2015,12,SP,Sudeste,Mata Atlântica,100
+2015,12,PR,Sul,Mata Atlântica,71
+2015,12,RS,Sul,Pampa,80
+2015,12,SC,Sul,Mata Atlântica,60
+2016,1,AC,Norte,Amazônia,236
+2016,1,AM,Norte,Amazônia,452
+2016,1,AP,Norte,Amazônia,423
+2016,1,PA,Norte,Amazônia,391
+2016,1,RO,Norte,Amazônia,325
+2016,1,RR,Norte,Amazônia,270
+2016,1,TO,Norte,Cerrado,266
+2016,1,AL,Nordeste,Mata Atlântica,72
+2016,1,BA,Nordeste,Caatinga,89
+2016,1,CE,Nordeste,Caatinga,98
+2016,1,MA,Nordeste,Cerrado,383
+2016,1,PB,Nordeste,Caatinga,73
+2016,1,PE,Nordeste,Caatinga,112
+2016,1,PI,Nordeste,Caatinga,100
+2016,1,RN,Nordeste,Caatinga,89
+2016,1,SE,Nordeste,Caatinga,92
+2016,1,GO,Centro-Oeste,Cerrado,327
+2016,1,MS,Centro-Oeste,Cerrado,287
+2016,1,MT,Centro-Oeste,Cerrado,312
+2016,1,ES,Sudeste,Mata Atlântica,101
+2016,1,MG,Sudeste,Cerrado,234
+2016,1,RJ,Sudeste,Mata Atlântica,64
+2016,1,SP,Sudeste,Mata Atlântica,60
+2016,1,PR,Sul,Mata Atlântica,60
+2016,1,RS,Sul,Pampa,107
+2016,1,SC,Sul,Mata Atlântica,98
+2016,2,AC,Norte,Amazônia,340
+2016,2,AM,Norte,Amazônia,253
+2016,2,AP,Norte,Amazônia,344
+2016,2,PA,Norte,Amazônia,339
+2016,2,RO,Norte,Amazônia,270
+2016,2,RR,Norte,Amazônia,330
+2016,2,TO,Norte,Cerrado,322
+2016,2,AL,Nordeste,Mata Atlântica,93
+2016,2,BA,Nordeste,Caatinga,94
+2016,2,CE,Nordeste,Caatinga,60
+2016,2,MA,Nordeste,Cerrado,317
+2016,2,PB,Nordeste,Caatinga,93
+2016,2,PE,Nordeste,Caatinga,86
+2016,2,PI,Nordeste,Caatinga,107
+2016,2,RN,Nordeste,Caatinga,95
+2016,2,SE,Nordeste,Caatinga,67
+2016,2,GO,Centro-Oeste,Cerrado,247
+2016,2,MS,Centro-Oeste,Cerrado,378
+2016,2,MT,Centro-Oeste,Cerrado,236
+2016,2,ES,Sudeste,Mata Atlântica,91
+2016,2,MG,Sudeste,Cerrado,447
+2016,2,RJ,Sudeste,Mata Atlântica,90
+2016,2,SP,Sudeste,Mata Atlântica,80
+2016,2,PR,Sul,Mata Atlântica,94
+2016,2,RS,Sul,Pampa,84
+2016,2,SC,Sul,Mata Atlântica,89
+2016,3,AC,Norte,Amazônia,447
+2016,3,AM,Norte,Amazônia,319
+2016,3,AP,Norte,Amazônia,452
+2016,3,PA,Norte,Amazônia,439
+2016,3,RO,Norte,Amazônia,275
+2016,3,RR,Norte,Amazônia,246
+2016,3,TO,Norte,Cerrado,253
+2016,3,AL,Nordeste,Mata Atlântica,58
+2016,3,BA,Nordeste,Caatinga,63
+2016,3,CE,Nordeste,Caatinga,97
+2016,3,MA,Nordeste,Cerrado,247
+2016,3,PB,Nordeste,Caatinga,76
+2016,3,PE,Nordeste,Caatinga,106
+2016,3,PI,Nordeste,Caatinga,59
+2016,3,RN,Nordeste,Caatinga,104
+2016,3,SE,Nordeste,Caatinga,73
+2016,3,GO,Centro-Oeste,Cerrado,257
+2016,3,MS,Centro-Oeste,Cerrado,391
+2016,3,MT,Centro-Oeste,Cerrado,375
+2016,3,ES,Sudeste,Mata Atlântica,108
+2016,3,MG,Sudeste,Cerrado,400
+2016,3,RJ,Sudeste,Mata Atlântica,104
+2016,3,SP,Sudeste,Mata Atlântica,73
+2016,3,PR,Sul,Mata Atlântica,67
+2016,3,RS,Sul,Pampa,100
+2016,3,SC,Sul,Mata Atlântica,104
+2016,4,AC,Norte,Amazônia,459
+2016,4,AM,Norte,Amazônia,325
+2016,4,AP,Norte,Amazônia,316
+2016,4,PA,Norte,Amazônia,409
+2016,4,RO,Norte,Amazônia,309
+2016,4,RR,Norte,Amazônia,445
+2016,4,TO,Norte,Cerrado,428
+2016,4,AL,Nordeste,Mata Atlântica,82
+2016,4,BA,Nordeste,Caatinga,100
+2016,4,CE,Nordeste,Caatinga,101
+2016,4,MA,Nordeste,Cerrado,254
+2016,4,PB,Nordeste,Caatinga,109
+2016,4,PE,Nordeste,Caatinga,86
+2016,4,PI,Nordeste,Caatinga,105
+2016,4,RN,Nordeste,Caatinga,76
+2016,4,SE,Nordeste,Caatinga,109
+2016,4,GO,Centro-Oeste,Cerrado,320
+2016,4,MS,Centro-Oeste,Cerrado,233
+2016,4,MT,Centro-Oeste,Cerrado,439
+2016,4,ES,Sudeste,Mata Atlântica,62
+2016,4,MG,Sudeste,Cerrado,304
+2016,4,RJ,Sudeste,Mata Atlântica,112
+2016,4,SP,Sudeste,Mata Atlântica,112
+2016,4,PR,Sul,Mata Atlântica,90
+2016,4,RS,Sul,Pampa,94
+2016,4,SC,Sul,Mata Atlântica,83
+2016,5,AC,Norte,Amazônia,298
+2016,5,AM,Norte,Amazônia,306
+2016,5,AP,Norte,Amazônia,385
+2016,5,PA,Norte,Amazônia,404
+2016,5,RO,Norte,Amazônia,413
+2016,5,RR,Norte,Amazônia,412
+2016,5,TO,Norte,Cerrado,251
+2016,5,AL,Nordeste,Mata Atlântica,86
+2016,5,BA,Nordeste,Caatinga,60
+2016,5,CE,Nordeste,Caatinga,89
+2016,5,MA,Nordeste,Cerrado,332
+2016,5,PB,Nordeste,Caatinga,108
+2016,5,PE,Nordeste,Caatinga,77
+2016,5,PI,Nordeste,Caatinga,64
+2016,5,RN,Nordeste,Caatinga,65
+2016,5,SE,Nordeste,Caatinga,101
+2016,5,GO,Centro-Oeste,Cerrado,373
+2016,5,MS,Centro-Oeste,Cerrado,254
+2016,5,MT,Centro-Oeste,Cerrado,250
+2016,5,ES,Sudeste,Mata Atlântica,98
+2016,5,MG,Sudeste,Cerrado,247
+2016,5,RJ,Sudeste,Mata Atlântica,105
+2016,5,SP,Sudeste,Mata Atlântica,98
+2016,5,PR,Sul,Mata Atlântica,62
+2016,5,RS,Sul,Pampa,62
+2016,5,SC,Sul,Mata Atlântica,114
+2016,6,AC,Norte,Amazônia,317
+2016,6,AM,Norte,Amazônia,316
+2016,6,AP,Norte,Amazônia,418
+2016,6,PA,Norte,Amazônia,449
+2016,6,RO,Norte,Amazônia,458
+2016,6,RR,Norte,Amazônia,404
+2016,6,TO,Norte,Cerrado,317
+2016,6,AL,Nordeste,Mata Atlântica,62
+2016,6,BA,Nordeste,Caatinga,102
+2016,6,CE,Nordeste,Caatinga,89
+2016,6,MA,Nordeste,Cerrado,328
+2016,6,PB,Nordeste,Caatinga,109
+2016,6,PE,Nordeste,Caatinga,64
+2016,6,PI,Nordeste,Caatinga,86
+2016,6,RN,Nordeste,Caatinga,58
+2016,6,SE,Nordeste,Caatinga,84
+2016,6,GO,Centro-Oeste,Cerrado,243
+2016,6,MS,Centro-Oeste,Cerrado,258
+2016,6,MT,Centro-Oeste,Cerrado,257
+2016,6,ES,Sudeste,Mata Atlântica,95
+2016,6,MG,Sudeste,Cerrado,402
+2016,6,RJ,Sudeste,Mata Atlântica,91
+2016,6,SP,Sudeste,Mata Atlântica,113
+2016,6,PR,Sul,Mata Atlântica,79
+2016,6,RS,Sul,Pampa,74
+2016,6,SC,Sul,Mata Atlântica,107
+2016,7,AC,Norte,Amazônia,1764
+2016,7,AM,Norte,Amazônia,2830
+2016,7,AP,Norte,Amazônia,1459
+2016,7,PA,Norte,Amazônia,2840
+2016,7,RO,Norte,Amazônia,1504
+2016,7,RR,Norte,Amazônia,2727
+2016,7,TO,Norte,Cerrado,2202
+2016,7,AL,Nordeste,Mata Atlântica,718
+2016,7,BA,Nordeste,Caatinga,387
+2016,7,CE,Nordeste,Caatinga,560
+2016,7,MA,Nordeste,Cerrado,2839
+2016,7,PB,Nordeste,Caatinga,549
+2016,7,PE,Nordeste,Caatinga,587
+2016,7,PI,Nordeste,Caatinga,611
+2016,7,RN,Nordeste,Caatinga,524
+2016,7,SE,Nordeste,Caatinga,586
+2016,7,GO,Centro-Oeste,Cerrado,2284
+2016,7,MS,Centro-Oeste,Cerrado,2741
+2016,7,MT,Centro-Oeste,Cerrado,1507
+2016,7,ES,Sudeste,Mata Atlântica,461
+2016,7,MG,Sudeste,Cerrado,2812
+2016,7,RJ,Sudeste,Mata Atlântica,681
+2016,7,SP,Sudeste,Mata Atlântica,524
+2016,7,PR,Sul,Mata Atlântica,584
+2016,7,RS,Sul,Pampa,460
+2016,7,SC,Sul,Mata Atlântica,428
+2016,8,AC,Norte,Amazônia,2110
+2016,8,AM,Norte,Amazônia,1951
+2016,8,AP,Norte,Amazônia,2283
+2016,8,PA,Norte,Amazônia,1554
+2016,8,RO,Norte,Amazônia,2847
+2016,8,RR,Norte,Amazônia,2864
+2016,8,TO,Norte,Cerrado,2448
+2016,8,AL,Nordeste,Mata Atlântica,553
+2016,8,BA,Nordeste,Caatinga,472
+2016,8,CE,Nordeste,Caatinga,653
+2016,8,MA,Nordeste,Cerrado,2429
+2016,8,PB,Nordeste,Caatinga,419
+2016,8,PE,Nordeste,Caatinga,688
+2016,8,PI,Nordeste,Caatinga,657
+2016,8,RN,Nordeste,Caatinga,702
+2016,8,SE,Nordeste,Caatinga,622
+2016,8,GO,Centro-Oeste,Cerrado,2326
+2016,8,MS,Centro-Oeste,Cerrado,2045
+2016,8,MT,Centro-Oeste,Cerrado,2786
+2016,8,ES,Sudeste,Mata Atlântica,672
+2016,8,MG,Sudeste,Cerrado,1507
+2016,8,RJ,Sudeste,Mata Atlântica,370
+2016,8,SP,Sudeste,Mata Atlântica,496
+2016,8,PR,Sul,Mata Atlântica,652
+2016,8,RS,Sul,Pampa,716
+2016,8,SC,Sul,Mata Atlântica,414
+2016,9,AC,Norte,Amazônia,2298
+2016,9,AM,Norte,Amazônia,1991
+2016,9,AP,Norte,Amazônia,2840
+2016,9,PA,Norte,Amazônia,2656
+2016,9,RO,Norte,Amazônia,2650
+2016,9,RR,Norte,Amazônia,2117
+2016,9,TO,Norte,Cerrado,2040
+2016,9,AL,Nordeste,Mata Atlântica,459
+2016,9,BA,Nordeste,Caatinga,380
+2016,9,CE,Nordeste,Caatinga,672
+2016,9,MA,Nordeste,Cerrado,2614
+2016,9,PB,Nordeste,Caatinga,720
+2016,9,PE,Nordeste,Caatinga,719
+2016,9,PI,Nordeste,Caatinga,560
+2016,9,RN,Nordeste,Caatinga,637
+2016,9,SE,Nordeste,Caatinga,701
+2016,9,GO,Centro-Oeste,Cerrado,2667
+2016,9,MS,Centro-Oeste,Cerrado,1798
+2016,9,MT,Centro-Oeste,Cerrado,2091
+2016,9,ES,Sudeste,Mata Atlântica,407
+2016,9,MG,Sudeste,Cerrado,2817
+2016,9,RJ,Sudeste,Mata Atlântica,579
+2016,9,SP,Sudeste,Mata Atlântica,442
+2016,9,PR,Sul,Mata Atlântica,602
+2016,9,RS,Sul,Pampa,583
+2016,9,SC,Sul,Mata Atlântica,489
+2016,10,AC,Norte,Amazônia,1605
+2016,10,AM,Norte,Amazônia,2410
+2016,10,AP,Norte,Amazônia,2192
+2016,10,PA,Norte,Amazônia,2555
+2016,10,RO,Norte,Amazônia,2192
+2016,10,RR,Norte,Amazônia,2670
+2016,10,TO,Norte,Cerrado,2237
+2016,10,AL,Nordeste,Mata Atlântica,562
+2016,10,BA,Nordeste,Caatinga,676
+2016,10,CE,Nordeste,Caatinga,505
+2016,10,MA,Nordeste,Cerrado,1635
+2016,10,PB,Nordeste,Caatinga,370
+2016,10,PE,Nordeste,Caatinga,632
+2016,10,PI,Nordeste,Caatinga,584
+2016,10,RN,Nordeste,Caatinga,614
+2016,10,SE,Nordeste,Caatinga,437
+2016,10,GO,Centro-Oeste,Cerrado,1638
+2016,10,MS,Centro-Oeste,Cerrado,1462
+2016,10,MT,Centro-Oeste,Cerrado,1947
+2016,10,ES,Sudeste,Mata Atlântica,573
+2016,10,MG,Sudeste,Cerrado,2007
+2016,10,RJ,Sudeste,Mata Atlântica,518
+2016,10,SP,Sudeste,Mata Atlântica,686
+2016,10,PR,Sul,Mata Atlântica,486
+2016,10,RS,Sul,Pampa,545
+2016,10,SC,Sul,Mata Atlântica,643
+2016,11,AC,Norte,Amazônia,322
+2016,11,AM,Norte,Amazônia,374
+2016,11,AP,Norte,Amazônia,429
+2016,11,PA,Norte,Amazônia,449
+2016,11,RO,Norte,Amazônia,264
+2016,11,RR,Norte,Amazônia,444
+2016,11,TO,Norte,Cerrado,344
+2016,11,AL,Nordeste,Mata Atlântica,72
+2016,11,BA,Nordeste,Caatinga,84
+2016,11,CE,Nordeste,Caatinga,114
+2016,11,MA,Nordeste,Cerrado,344
+2016,11,PB,Nordeste,Caatinga,76
+2016,11,PE,Nordeste,Caatinga,94
+2016,11,PI,Nordeste,Caatinga,71
+2016,11,RN,Nordeste,Caatinga,62
+2016,11,SE,Nordeste,Caatinga,65
+2016,11,GO,Centro-Oeste,Cerrado,260
+2016,11,MS,Centro-Oeste,Cerrado,265
+2016,11,MT,Centro-Oeste,Cerrado,262
+2016,11,ES,Sudeste,Mata Atlântica,94
+2016,11,MG,Sudeste,Cerrado,272
+2016,11,RJ,Sudeste,Mata Atlântica,77
+2016,11,SP,Sudeste,Mata Atlântica,109
+2016,11,PR,Sul,Mata Atlântica,85
+2016,11,RS,Sul,Pampa,96
+2016,11,SC,Sul,Mata Atlântica,67
+2016,12,AC,Norte,Amazônia,275
+2016,12,AM,Norte,Amazônia,240
+2016,12,AP,Norte,Amazônia,269
+2016,12,PA,Norte,Amazônia,294
+2016,12,RO,Norte,Amazônia,271
+2016,12,RR,Norte,Amazônia,251
+2016,12,TO,Norte,Cerrado,258
+2016,12,AL,Nordeste,Mata Atlântica,84
+2016,12,BA,Nordeste,Caatinga,69
+2016,12,CE,Nordeste,Caatinga,78
+2016,12,MA,Nordeste,Cerrado,346
+2016,12,PB,Nordeste,Caatinga,97
+2016,12,PE,Nordeste,Caatinga,59
+2016,12,PI,Nordeste,Caatinga,103
+2016,12,RN,Nordeste,Caatinga,93
+2016,12,SE,Nordeste,Caatinga,62
+2016,12,GO,Centro-Oeste,Cerrado,432
+2016,12,MS,Centro-Oeste,Cerrado,443
+2016,12,MT,Centro-Oeste,Cerrado,244
+2016,12,ES,Sudeste,Mata Atlântica,73
+2016,12,MG,Sudeste,Cerrado,416
+2016,12,RJ,Sudeste,Mata Atlântica,100
+2016,12,SP,Sudeste,Mata Atlântica,68
+2016,12,PR,Sul,Mata Atlântica,69
+2016,12,RS,Sul,Pampa,79
+2016,12,SC,Sul,Mata Atlântica,85
+2017,1,AC,Norte,Amazônia,384
+2017,1,AM,Norte,Amazônia,325
+2017,1,AP,Norte,Amazônia,347
+2017,1,PA,Norte,Amazônia,414
+2017,1,RO,Norte,Amazônia,246
+2017,1,RR,Norte,Amazônia,297
+2017,1,TO,Norte,Cerrado,406
+2017,1,AL,Nordeste,Mata Atlântica,112
+2017,1,BA,Nordeste,Caatinga,89
+2017,1,CE,Nordeste,Caatinga,90
+2017,1,MA,Nordeste,Cerrado,262
+2017,1,PB,Nordeste,Caatinga,85
+2017,1,PE,Nordeste,Caatinga,90
+2017,1,PI,Nordeste,Caatinga,73
+2017,1,RN,Nordeste,Caatinga,75
+2017,1,SE,Nordeste,Caatinga,81
+2017,1,GO,Centro-Oeste,Cerrado,242
+2017,1,MS,Centro-Oeste,Cerrado,313
+2017,1,MT,Centro-Oeste,Cerrado,287
+2017,1,ES,Sudeste,Mata Atlântica,78
+2017,1,MG,Sudeste,Cerrado,265
+2017,1,RJ,Sudeste,Mata Atlântica,112
+2017,1,SP,Sudeste,Mata Atlântica,94
+2017,1,PR,Sul,Mata Atlântica,99
+2017,1,RS,Sul,Pampa,106
+2017,1,SC,Sul,Mata Atlântica,88
+2017,2,AC,Norte,Amazônia,258
+2017,2,AM,Norte,Amazônia,364
+2017,2,AP,Norte,Amazônia,376
+2017,2,PA,Norte,Amazônia,414
+2017,2,RO,Norte,Amazônia,339
+2017,2,RR,Norte,Amazônia,267
+2017,2,TO,Norte,Cerrado,304
+2017,2,AL,Nordeste,Mata Atlântica,80
+2017,2,BA,Nordeste,Caatinga,97
+2017,2,CE,Nordeste,Caatinga,93
+2017,2,MA,Nordeste,Cerrado,321
+2017,2,PB,Nordeste,Caatinga,117
+2017,2,PE,Nordeste,Caatinga,95
+2017,2,PI,Nordeste,Caatinga,73
+2017,2,RN,Nordeste,Caatinga,65
+2017,2,SE,Nordeste,Caatinga,68
+2017,2,GO,Centro-Oeste,Cerrado,295
+2017,2,MS,Centro-Oeste,Cerrado,275
+2017,2,MT,Centro-Oeste,Cerrado,281
+2017,2,ES,Sudeste,Mata Atlântica,76
+2017,2,MG,Sudeste,Cerrado,278
+2017,2,RJ,Sudeste,Mata Atlântica,112
+2017,2,SP,Sudeste,Mata Atlântica,64
+2017,2,PR,Sul,Mata Atlântica,90
+2017,2,RS,Sul,Pampa,83
+2017,2,SC,Sul,Mata Atlântica,117
+2017,3,AC,Norte,Amazônia,264
+2017,3,AM,Norte,Amazônia,331
+2017,3,AP,Norte,Amazônia,467
+2017,3,PA,Norte,Amazônia,442
+2017,3,RO,Norte,Amazônia,431
+2017,3,RR,Norte,Amazônia,298
+2017,3,TO,Norte,Cerrado,278
+2017,3,AL,Nordeste,Mata Atlântica,99
+2017,3,BA,Nordeste,Caatinga,114
+2017,3,CE,Nordeste,Caatinga,92
+2017,3,MA,Nordeste,Cerrado,373
+2017,3,PB,Nordeste,Caatinga,75
+2017,3,PE,Nordeste,Caatinga,105
+2017,3,PI,Nordeste,Caatinga,70
+2017,3,RN,Nordeste,Caatinga,78
+2017,3,SE,Nordeste,Caatinga,84
+2017,3,GO,Centro-Oeste,Cerrado,357
+2017,3,MS,Centro-Oeste,Cerrado,294
+2017,3,MT,Centro-Oeste,Cerrado,264
+2017,3,ES,Sudeste,Mata Atlântica,95
+2017,3,MG,Sudeste,Cerrado,305
+2017,3,RJ,Sudeste,Mata Atlântica,93
+2017,3,SP,Sudeste,Mata Atlântica,68
+2017,3,PR,Sul,Mata Atlântica,87
+2017,3,RS,Sul,Pampa,90
+2017,3,SC,Sul,Mata Atlântica,62
+2017,4,AC,Norte,Amazônia,317
+2017,4,AM,Norte,Amazônia,269
+2017,4,AP,Norte,Amazônia,252
+2017,4,PA,Norte,Amazônia,472
+2017,4,RO,Norte,Amazônia,313
+2017,4,RR,Norte,Amazônia,429
+2017,4,TO,Norte,Cerrado,297
+2017,4,AL,Nordeste,Mata Atlântica,99
+2017,4,BA,Nordeste,Caatinga,104
+2017,4,CE,Nordeste,Caatinga,94
+2017,4,MA,Nordeste,Cerrado,349
+2017,4,PB,Nordeste,Caatinga,83
+2017,4,PE,Nordeste,Caatinga,80
+2017,4,PI,Nordeste,Caatinga,114
+2017,4,RN,Nordeste,Caatinga,108
+2017,4,SE,Nordeste,Caatinga,116
+2017,4,GO,Centro-Oeste,Cerrado,266
+2017,4,MS,Centro-Oeste,Cerrado,410
+2017,4,MT,Centro-Oeste,Cerrado,460
+2017,4,ES,Sudeste,Mata Atlântica,70
+2017,4,MG,Sudeste,Cerrado,253
+2017,4,RJ,Sudeste,Mata Atlântica,103
+2017,4,SP,Sudeste,Mata Atlântica,93
+2017,4,PR,Sul,Mata Atlântica,109
+2017,4,RS,Sul,Pampa,67
+2017,4,SC,Sul,Mata Atlântica,106
+2017,5,AC,Norte,Amazônia,285
+2017,5,AM,Norte,Amazônia,276
+2017,5,AP,Norte,Amazônia,276
+2017,5,PA,Norte,Amazônia,430
+2017,5,RO,Norte,Amazônia,395
+2017,5,RR,Norte,Amazônia,361
+2017,5,TO,Norte,Cerrado,322
+2017,5,AL,Nordeste,Mata Atlântica,111
+2017,5,BA,Nordeste,Caatinga,82
+2017,5,CE,Nordeste,Caatinga,107
+2017,5,MA,Nordeste,Cerrado,341
+2017,5,PB,Nordeste,Caatinga,81
+2017,5,PE,Nordeste,Caatinga,86
+2017,5,PI,Nordeste,Caatinga,77
+2017,5,RN,Nordeste,Caatinga,103
+2017,5,SE,Nordeste,Caatinga,89
+2017,5,GO,Centro-Oeste,Cerrado,292
+2017,5,MS,Centro-Oeste,Cerrado,451
+2017,5,MT,Centro-Oeste,Cerrado,328
+2017,5,ES,Sudeste,Mata Atlântica,91
+2017,5,MG,Sudeste,Cerrado,452
+2017,5,RJ,Sudeste,Mata Atlântica,96
+2017,5,SP,Sudeste,Mata Atlântica,66
+2017,5,PR,Sul,Mata Atlântica,115
+2017,5,RS,Sul,Pampa,96
+2017,5,SC,Sul,Mata Atlântica,79
+2017,6,AC,Norte,Amazônia,270
+2017,6,AM,Norte,Amazônia,425
+2017,6,AP,Norte,Amazônia,384
+2017,6,PA,Norte,Amazônia,364
+2017,6,RO,Norte,Amazônia,449
+2017,6,RR,Norte,Amazônia,424
+2017,6,TO,Norte,Cerrado,273
+2017,6,AL,Nordeste,Mata Atlântica,77
+2017,6,BA,Nordeste,Caatinga,74
+2017,6,CE,Nordeste,Caatinga,103
+2017,6,MA,Nordeste,Cerrado,245
+2017,6,PB,Nordeste,Caatinga,93
+2017,6,PE,Nordeste,Caatinga,104
+2017,6,PI,Nordeste,Caatinga,111
+2017,6,RN,Nordeste,Caatinga,79
+2017,6,SE,Nordeste,Caatinga,108
+2017,6,GO,Centro-Oeste,Cerrado,263
+2017,6,MS,Centro-Oeste,Cerrado,438
+2017,6,MT,Centro-Oeste,Cerrado,267
+2017,6,ES,Sudeste,Mata Atlântica,82
+2017,6,MG,Sudeste,Cerrado,426
+2017,6,RJ,Sudeste,Mata Atlântica,68
+2017,6,SP,Sudeste,Mata Atlântica,72
+2017,6,PR,Sul,Mata Atlântica,102
+2017,6,RS,Sul,Pampa,102
+2017,6,SC,Sul,Mata Atlântica,97
+2017,7,AC,Norte,Amazônia,2513
+2017,7,AM,Norte,Amazônia,2289
+2017,7,AP,Norte,Amazônia,1857
+2017,7,PA,Norte,Amazônia,1997
+2017,7,RO,Norte,Amazônia,1753
+2017,7,RR,Norte,Amazônia,2832
+2017,7,TO,Norte,Cerrado,2349
+2017,7,AL,Nordeste,Mata Atlântica,519
+2017,7,BA,Nordeste,Caatinga,542
+2017,7,CE,Nordeste,Caatinga,722
+2017,7,MA,Nordeste,Cerrado,1711
+2017,7,PB,Nordeste,Caatinga,588
+2017,7,PE,Nordeste,Caatinga,558
+2017,7,PI,Nordeste,Caatinga,597
+2017,7,RN,Nordeste,Caatinga,377
+2017,7,SE,Nordeste,Caatinga,694
+2017,7,GO,Centro-Oeste,Cerrado,2867
+2017,7,MS,Centro-Oeste,Cerrado,2322
+2017,7,MT,Centro-Oeste,Cerrado,2517
+2017,7,ES,Sudeste,Mata Atlântica,713
+2017,7,MG,Sudeste,Cerrado,2533
+2017,7,RJ,Sudeste,Mata Atlântica,427
+2017,7,SP,Sudeste,Mata Atlântica,584
+2017,7,PR,Sul,Mata Atlântica,596
+2017,7,RS,Sul,Pampa,528
+2017,7,SC,Sul,Mata Atlântica,644
+2017,8,AC,Norte,Amazônia,2870
+2017,8,AM,Norte,Amazônia,2857
+2017,8,AP,Norte,Amazônia,2153
+2017,8,PA,Norte,Amazônia,1652
+2017,8,RO,Norte,Amazônia,2945
+2017,8,RR,Norte,Amazônia,2728
+2017,8,TO,Norte,Cerrado,1668
+2017,8,AL,Nordeste,Mata Atlântica,712
+2017,8,BA,Nordeste,Caatinga,693
+2017,8,CE,Nordeste,Caatinga,563
+2017,8,MA,Nordeste,Cerrado,2361
+2017,8,PB,Nordeste,Caatinga,519
+2017,8,PE,Nordeste,Caatinga,391
+2017,8,PI,Nordeste,Caatinga,495
+2017,8,RN,Nordeste,Caatinga,668
+2017,8,SE,Nordeste,Caatinga,372
+2017,8,GO,Centro-Oeste,Cerrado,1978
+2017,8,MS,Centro-Oeste,Cerrado,2074
+2017,8,MT,Centro-Oeste,Cerrado,2281
+2017,8,ES,Sudeste,Mata Atlântica,712
+2017,8,MG,Sudeste,Cerrado,1997
+2017,8,RJ,Sudeste,Mata Atlântica,499
+2017,8,SP,Sudeste,Mata Atlântica,644
+2017,8,PR,Sul,Mata Atlântica,538
+2017,8,RS,Sul,Pampa,454
+2017,8,SC,Sul,Mata Atlântica,538
+2017,9,AC,Norte,Amazônia,1693
+2017,9,AM,Norte,Amazônia,1745
+2017,9,AP,Norte,Amazônia,2223
+2017,9,PA,Norte,Amazônia,2105
+2017,9,RO,Norte,Amazônia,2841
+2017,9,RR,Norte,Amazônia,2021
+2017,9,TO,Norte,Cerrado,2345
+2017,9,AL,Nordeste,Mata Atlântica,605
+2017,9,BA,Nordeste,Caatinga,375
+2017,9,CE,Nordeste,Caatinga,617
+2017,9,MA,Nordeste,Cerrado,1748
+2017,9,PB,Nordeste,Caatinga,727
+2017,9,PE,Nordeste,Caatinga,426
+2017,9,PI,Nordeste,Caatinga,524
+2017,9,RN,Nordeste,Caatinga,402
+2017,9,SE,Nordeste,Caatinga,740
+2017,9,GO,Centro-Oeste,Cerrado,2229
+2017,9,MS,Centro-Oeste,Cerrado,2367
+2017,9,MT,Centro-Oeste,Cerrado,1583
+2017,9,ES,Sudeste,Mata Atlântica,649
+2017,9,MG,Sudeste,Cerrado,1795
+2017,9,RJ,Sudeste,Mata Atlântica,704
+2017,9,SP,Sudeste,Mata Atlântica,447
+2017,9,PR,Sul,Mata Atlântica,441
+2017,9,RS,Sul,Pampa,384
+2017,9,SC,Sul,Mata Atlântica,546
+2017,10,AC,Norte,Amazônia,2322
+2017,10,AM,Norte,Amazônia,1581
+2017,10,AP,Norte,Amazônia,2634
+2017,10,PA,Norte,Amazônia,2156
+2017,10,RO,Norte,Amazônia,2262
+2017,10,RR,Norte,Amazônia,2138
+2017,10,TO,Norte,Cerrado,2078
+2017,10,AL,Nordeste,Mata Atlântica,578
+2017,10,BA,Nordeste,Caatinga,428
+2017,10,CE,Nordeste,Caatinga,438
+2017,10,MA,Nordeste,Cerrado,2762
+2017,10,PB,Nordeste,Caatinga,722
+2017,10,PE,Nordeste,Caatinga,509
+2017,10,PI,Nordeste,Caatinga,471
+2017,10,RN,Nordeste,Caatinga,609
+2017,10,SE,Nordeste,Caatinga,522
+2017,10,GO,Centro-Oeste,Cerrado,1521
+2017,10,MS,Centro-Oeste,Cerrado,1715
+2017,10,MT,Centro-Oeste,Cerrado,2546
+2017,10,ES,Sudeste,Mata Atlântica,615
+2017,10,MG,Sudeste,Cerrado,1524
+2017,10,RJ,Sudeste,Mata Atlântica,453
+2017,10,SP,Sudeste,Mata Atlântica,456
+2017,10,PR,Sul,Mata Atlântica,620
+2017,10,RS,Sul,Pampa,378
+2017,10,SC,Sul,Mata Atlântica,409
+2017,11,AC,Norte,Amazônia,427
+2017,11,AM,Norte,Amazônia,279
+2017,11,AP,Norte,Amazônia,392
+2017,11,PA,Norte,Amazônia,293
+2017,11,RO,Norte,Amazônia,261
+2017,11,RR,Norte,Amazônia,295
+2017,11,TO,Norte,Cerrado,408
+2017,11,AL,Nordeste,Mata Atlântica,110
+2017,11,BA,Nordeste,Caatinga,108
+2017,11,CE,Nordeste,Caatinga,82
+2017,11,MA,Nordeste,Cerrado,396
+2017,11,PB,Nordeste,Caatinga,71
+2017,11,PE,Nordeste,Caatinga,76
+2017,11,PI,Nordeste,Caatinga,112
+2017,11,RN,Nordeste,Caatinga,60
+2017,11,SE,Nordeste,Caatinga,64
+2017,11,GO,Centro-Oeste,Cerrado,286
+2017,11,MS,Centro-Oeste,Cerrado,243
+2017,11,MT,Centro-Oeste,Cerrado,280
+2017,11,ES,Sudeste,Mata Atlântica,93
+2017,11,MG,Sudeste,Cerrado,337
+2017,11,RJ,Sudeste,Mata Atlântica,112
+2017,11,SP,Sudeste,Mata Atlântica,107
+2017,11,PR,Sul,Mata Atlântica,79
+2017,11,RS,Sul,Pampa,74
+2017,11,SC,Sul,Mata Atlântica,81
+2017,12,AC,Norte,Amazônia,377
+2017,12,AM,Norte,Amazônia,301
+2017,12,AP,Norte,Amazônia,385
+2017,12,PA,Norte,Amazônia,334
+2017,12,RO,Norte,Amazônia,368
+2017,12,RR,Norte,Amazônia,340
+2017,12,TO,Norte,Cerrado,307
+2017,12,AL,Nordeste,Mata Atlântica,115
+2017,12,BA,Nordeste,Caatinga,104
+2017,12,CE,Nordeste,Caatinga,67
+2017,12,MA,Nordeste,Cerrado,443
+2017,12,PB,Nordeste,Caatinga,88
+2017,12,PE,Nordeste,Caatinga,112
+2017,12,PI,Nordeste,Caatinga,106
+2017,12,RN,Nordeste,Caatinga,84
+2017,12,SE,Nordeste,Caatinga,60
+2017,12,GO,Centro-Oeste,Cerrado,301
+2017,12,MS,Centro-Oeste,Cerrado,366
+2017,12,MT,Centro-Oeste,Cerrado,387
+2017,12,ES,Sudeste,Mata Atlântica,74
+2017,12,MG,Sudeste,Cerrado,270
+2017,12,RJ,Sudeste,Mata Atlântica,108
+2017,12,SP,Sudeste,Mata Atlântica,117
+2017,12,PR,Sul,Mata Atlântica,90
+2017,12,RS,Sul,Pampa,69
+2017,12,SC,Sul,Mata Atlântica,75
+2018,1,AC,Norte,Amazônia,248
+2018,1,AM,Norte,Amazônia,467
+2018,1,AP,Norte,Amazônia,272
+2018,1,PA,Norte,Amazônia,384
+2018,1,RO,Norte,Amazônia,311
+2018,1,RR,Norte,Amazônia,379
+2018,1,TO,Norte,Cerrado,403
+2018,1,AL,Nordeste,Mata Atlântica,111
+2018,1,BA,Nordeste,Caatinga,73
+2018,1,CE,Nordeste,Caatinga,61
+2018,1,MA,Nordeste,Cerrado,277
+2018,1,PB,Nordeste,Caatinga,115
+2018,1,PE,Nordeste,Caatinga,114
+2018,1,PI,Nordeste,Caatinga,97
+2018,1,RN,Nordeste,Caatinga,97
+2018,1,SE,Nordeste,Caatinga,101
+2018,1,GO,Centro-Oeste,Cerrado,286
+2018,1,MS,Centro-Oeste,Cerrado,467
+2018,1,MT,Centro-Oeste,Cerrado,346
+2018,1,ES,Sudeste,Mata Atlântica,84
+2018,1,MG,Sudeste,Cerrado,370
+2018,1,RJ,Sudeste,Mata Atlântica,63
+2018,1,SP,Sudeste,Mata Atlântica,71
+2018,1,PR,Sul,Mata Atlântica,106
+2018,1,RS,Sul,Pampa,66
+2018,1,SC,Sul,Mata Atlântica,97
+2018,2,AC,Norte,Amazônia,304
+2018,2,AM,Norte,Amazônia,339
+2018,2,AP,Norte,Amazônia,314
+2018,2,PA,Norte,Amazônia,331
+2018,2,RO,Norte,Amazônia,419
+2018,2,RR,Norte,Amazônia,316
+2018,2,TO,Norte,Cerrado,382
+2018,2,AL,Nordeste,Mata Atlântica,90
+2018,2,BA,Nordeste,Caatinga,101
+2018,2,CE,Nordeste,Caatinga,118
+2018,2,MA,Nordeste,Cerrado,423
+2018,2,PB,Nordeste,Caatinga,74
+2018,2,PE,Nordeste,Caatinga,62
+2018,2,PI,Nordeste,Caatinga,77
+2018,2,RN,Nordeste,Caatinga,97
+2018,2,SE,Nordeste,Caatinga,64
+2018,2,GO,Centro-Oeste,Cerrado,365
+2018,2,MS,Centro-Oeste,Cerrado,389
+2018,2,MT,Centro-Oeste,Cerrado,325
+2018,2,ES,Sudeste,Mata Atlântica,108
+2018,2,MG,Sudeste,Cerrado,270
+2018,2,RJ,Sudeste,Mata Atlântica,65
+2018,2,SP,Sudeste,Mata Atlântica,105
+2018,2,PR,Sul,Mata Atlântica,91
+2018,2,RS,Sul,Pampa,103
+2018,2,SC,Sul,Mata Atlântica,87
+2018,3,AC,Norte,Amazônia,304
+2018,3,AM,Norte,Amazônia,444
+2018,3,AP,Norte,Amazônia,439
+2018,3,PA,Norte,Amazônia,413
+2018,3,RO,Norte,Amazônia,310
+2018,3,RR,Norte,Amazônia,388
+2018,3,TO,Norte,Cerrado,332
+2018,3,AL,Nordeste,Mata Atlântica,66
+2018,3,BA,Nordeste,Caatinga,117
+2018,3,CE,Nordeste,Caatinga,69
+2018,3,MA,Nordeste,Cerrado,476
+2018,3,PB,Nordeste,Caatinga,88
+2018,3,PE,Nordeste,Caatinga,72
+2018,3,PI,Nordeste,Caatinga,94
+2018,3,RN,Nordeste,Caatinga,114
+2018,3,SE,Nordeste,Caatinga,105
+2018,3,GO,Centro-Oeste,Cerrado,441
+2018,3,MS,Centro-Oeste,Cerrado,405
+2018,3,MT,Centro-Oeste,Cerrado,413
+2018,3,ES,Sudeste,Mata Atlântica,112
+2018,3,MG,Sudeste,Cerrado,305
+2018,3,RJ,Sudeste,Mata Atlântica,90
+2018,3,SP,Sudeste,Mata Atlântica,74
+2018,3,PR,Sul,Mata Atlântica,121
+2018,3,RS,Sul,Pampa,118
+2018,3,SC,Sul,Mata Atlântica,63
+2018,4,AC,Norte,Amazônia,416
+2018,4,AM,Norte,Amazônia,470
+2018,4,AP,Norte,Amazônia,288
+2018,4,PA,Norte,Amazônia,382
+2018,4,RO,Norte,Amazônia,467
+2018,4,RR,Norte,Amazônia,252
+2018,4,TO,Norte,Cerrado,414
+2018,4,AL,Nordeste,Mata Atlântica,79
+2018,4,BA,Nordeste,Caatinga,117
+2018,4,CE,Nordeste,Caatinga,120
+2018,4,MA,Nordeste,Cerrado,474
+2018,4,PB,Nordeste,Caatinga,89
+2018,4,PE,Nordeste,Caatinga,113
+2018,4,PI,Nordeste,Caatinga,112
+2018,4,RN,Nordeste,Caatinga,80
+2018,4,SE,Nordeste,Caatinga,111
+2018,4,GO,Centro-Oeste,Cerrado,253
+2018,4,MS,Centro-Oeste,Cerrado,389
+2018,4,MT,Centro-Oeste,Cerrado,300
+2018,4,ES,Sudeste,Mata Atlântica,68
+2018,4,MG,Sudeste,Cerrado,262
+2018,4,RJ,Sudeste,Mata Atlântica,103
+2018,4,SP,Sudeste,Mata Atlântica,81
+2018,4,PR,Sul,Mata Atlântica,105
+2018,4,RS,Sul,Pampa,65
+2018,4,SC,Sul,Mata Atlântica,80
+2018,5,AC,Norte,Amazônia,375
+2018,5,AM,Norte,Amazônia,437
+2018,5,AP,Norte,Amazônia,321
+2018,5,PA,Norte,Amazônia,396
+2018,5,RO,Norte,Amazônia,460
+2018,5,RR,Norte,Amazônia,394
+2018,5,TO,Norte,Cerrado,301
+2018,5,AL,Nordeste,Mata Atlântica,62
+2018,5,BA,Nordeste,Caatinga,114
+2018,5,CE,Nordeste,Caatinga,62
+2018,5,MA,Nordeste,Cerrado,457
+2018,5,PB,Nordeste,Caatinga,93
+2018,5,PE,Nordeste,Caatinga,118
+2018,5,PI,Nordeste,Caatinga,109
+2018,5,RN,Nordeste,Caatinga,121
+2018,5,SE,Nordeste,Caatinga,82
+2018,5,GO,Centro-Oeste,Cerrado,431
+2018,5,MS,Centro-Oeste,Cerrado,342
+2018,5,MT,Centro-Oeste,Cerrado,361
+2018,5,ES,Sudeste,Mata Atlântica,99
+2018,5,MG,Sudeste,Cerrado,457
+2018,5,RJ,Sudeste,Mata Atlântica,121
+2018,5,SP,Sudeste,Mata Atlântica,107
+2018,5,PR,Sul,Mata Atlântica,86
+2018,5,RS,Sul,Pampa,86
+2018,5,SC,Sul,Mata Atlântica,106
+2018,6,AC,Norte,Amazônia,302
+2018,6,AM,Norte,Amazônia,271
+2018,6,AP,Norte,Amazônia,330
+2018,6,PA,Norte,Amazônia,314
+2018,6,RO,Norte,Amazônia,316
+2018,6,RR,Norte,Amazônia,301
+2018,6,TO,Norte,Cerrado,254
+2018,6,AL,Nordeste,Mata Atlântica,62
+2018,6,BA,Nordeste,Caatinga,121
+2018,6,CE,Nordeste,Caatinga,87
+2018,6,MA,Nordeste,Cerrado,337
+2018,6,PB,Nordeste,Caatinga,102
+2018,6,PE,Nordeste,Caatinga,74
+2018,6,PI,Nordeste,Caatinga,119
+2018,6,RN,Nordeste,Caatinga,109
+2018,6,SE,Nordeste,Caatinga,66
+2018,6,GO,Centro-Oeste,Cerrado,346
+2018,6,MS,Centro-Oeste,Cerrado,458
+2018,6,MT,Centro-Oeste,Cerrado,474
+2018,6,ES,Sudeste,Mata Atlântica,89
+2018,6,MG,Sudeste,Cerrado,393
+2018,6,RJ,Sudeste,Mata Atlântica,71
+2018,6,SP,Sudeste,Mata Atlântica,121
+2018,6,PR,Sul,Mata Atlântica,75
+2018,6,RS,Sul,Pampa,118
+2018,6,SC,Sul,Mata Atlântica,100
+2018,7,AC,Norte,Amazônia,2453
+2018,7,AM,Norte,Amazônia,2308
+2018,7,AP,Norte,Amazônia,1878
+2018,7,PA,Norte,Amazônia,1795
+2018,7,RO,Norte,Amazônia,1862
+2018,7,RR,Norte,Amazônia,1810
+2018,7,TO,Norte,Cerrado,2715
+2018,7,AL,Nordeste,Mata Atlântica,515
+2018,7,BA,Nordeste,Caatinga,403
+2018,7,CE,Nordeste,Caatinga,751
+2018,7,MA,Nordeste,Cerrado,2874
+2018,7,PB,Nordeste,Caatinga,735
+2018,7,PE,Nordeste,Caatinga,761
+2018,7,PI,Nordeste,Caatinga,447
+2018,7,RN,Nordeste,Caatinga,532
+2018,7,SE,Nordeste,Caatinga,670
+2018,7,GO,Centro-Oeste,Cerrado,2588
+2018,7,MS,Centro-Oeste,Cerrado,1760
+2018,7,MT,Centro-Oeste,Cerrado,2770
+2018,7,ES,Sudeste,Mata Atlântica,467
+2018,7,MG,Sudeste,Cerrado,1867
+2018,7,RJ,Sudeste,Mata Atlântica,586
+2018,7,SP,Sudeste,Mata Atlântica,607
+2018,7,PR,Sul,Mata Atlântica,602
+2018,7,RS,Sul,Pampa,416
+2018,7,SC,Sul,Mata Atlântica,716
+2018,8,AC,Norte,Amazônia,1931
+2018,8,AM,Norte,Amazônia,1723
+2018,8,AP,Norte,Amazônia,2882
+2018,8,PA,Norte,Amazônia,2984
+2018,8,RO,Norte,Amazônia,2841
+2018,8,RR,Norte,Amazônia,2761
+2018,8,TO,Norte,Cerrado,2525
+2018,8,AL,Nordeste,Mata Atlântica,591
+2018,8,BA,Nordeste,Caatinga,414
+2018,8,CE,Nordeste,Caatinga,537
+2018,8,MA,Nordeste,Cerrado,2094
+2018,8,PB,Nordeste,Caatinga,480
+2018,8,PE,Nordeste,Caatinga,657
+2018,8,PI,Nordeste,Caatinga,570
+2018,8,RN,Nordeste,Caatinga,412
+2018,8,SE,Nordeste,Caatinga,465
+2018,8,GO,Centro-Oeste,Cerrado,2568
+2018,8,MS,Centro-Oeste,Cerrado,1642
+2018,8,MT,Centro-Oeste,Cerrado,2824
+2018,8,ES,Sudeste,Mata Atlântica,570
+2018,8,MG,Sudeste,Cerrado,2259
+2018,8,RJ,Sudeste,Mata Atlântica,607
+2018,8,SP,Sudeste,Mata Atlântica,696
+2018,8,PR,Sul,Mata Atlântica,514
+2018,8,RS,Sul,Pampa,640
+2018,8,SC,Sul,Mata Atlântica,597
+2018,9,AC,Norte,Amazônia,1933
+2018,9,AM,Norte,Amazônia,2866
+2018,9,AP,Norte,Amazônia,2742
+2018,9,PA,Norte,Amazônia,2530
+2018,9,RO,Norte,Amazônia,2823
+2018,9,RR,Norte,Amazônia,2849
+2018,9,TO,Norte,Cerrado,2606
+2018,9,AL,Nordeste,Mata Atlântica,700
+2018,9,BA,Nordeste,Caatinga,647
+2018,9,CE,Nordeste,Caatinga,640
+2018,9,MA,Nordeste,Cerrado,2470
+2018,9,PB,Nordeste,Caatinga,668
+2018,9,PE,Nordeste,Caatinga,442
+2018,9,PI,Nordeste,Caatinga,717
+2018,9,RN,Nordeste,Caatinga,714
+2018,9,SE,Nordeste,Caatinga,392
+2018,9,GO,Centro-Oeste,Cerrado,2786
+2018,9,MS,Centro-Oeste,Cerrado,1722
+2018,9,MT,Centro-Oeste,Cerrado,2037
+2018,9,ES,Sudeste,Mata Atlântica,665
+2018,9,MG,Sudeste,Cerrado,1771
+2018,9,RJ,Sudeste,Mata Atlântica,693
+2018,9,SP,Sudeste,Mata Atlântica,698
+2018,9,PR,Sul,Mata Atlântica,575
+2018,9,RS,Sul,Pampa,383
+2018,9,SC,Sul,Mata Atlântica,491
+2018,10,AC,Norte,Amazônia,2467
+2018,10,AM,Norte,Amazônia,3023
+2018,10,AP,Norte,Amazônia,2490
+2018,10,PA,Norte,Amazônia,1922
+2018,10,RO,Norte,Amazônia,2493
+2018,10,RR,Norte,Amazônia,2350
+2018,10,TO,Norte,Cerrado,2716
+2018,10,AL,Nordeste,Mata Atlântica,422
+2018,10,BA,Nordeste,Caatinga,671
+2018,10,CE,Nordeste,Caatinga,587
+2018,10,MA,Nordeste,Cerrado,2995
+2018,10,PB,Nordeste,Caatinga,511
+2018,10,PE,Nordeste,Caatinga,622
+2018,10,PI,Nordeste,Caatinga,737
+2018,10,RN,Nordeste,Caatinga,420
+2018,10,SE,Nordeste,Caatinga,739
+2018,10,GO,Centro-Oeste,Cerrado,2575
+2018,10,MS,Centro-Oeste,Cerrado,1629
+2018,10,MT,Centro-Oeste,Cerrado,1985
+2018,10,ES,Sudeste,Mata Atlântica,651
+2018,10,MG,Sudeste,Cerrado,1628
+2018,10,RJ,Sudeste,Mata Atlântica,603
+2018,10,SP,Sudeste,Mata Atlântica,513
+2018,10,PR,Sul,Mata Atlântica,618
+2018,10,RS,Sul,Pampa,398
+2018,10,SC,Sul,Mata Atlântica,713
+2018,11,AC,Norte,Amazônia,481
+2018,11,AM,Norte,Amazônia,480
+2018,11,AP,Norte,Amazônia,427
+2018,11,PA,Norte,Amazônia,275
+2018,11,RO,Norte,Amazônia,429
+2018,11,RR,Norte,Amazônia,250
+2018,11,TO,Norte,Cerrado,249
+2018,11,AL,Nordeste,Mata Atlântica,80
+2018,11,BA,Nordeste,Caatinga,90
+2018,11,CE,Nordeste,Caatinga,108
+2018,11,MA,Nordeste,Cerrado,410
+2018,11,PB,Nordeste,Caatinga,88
+2018,11,PE,Nordeste,Caatinga,77
+2018,11,PI,Nordeste,Caatinga,121
+2018,11,RN,Nordeste,Caatinga,87
+2018,11,SE,Nordeste,Caatinga,88
+2018,11,GO,Centro-Oeste,Cerrado,284
+2018,11,MS,Centro-Oeste,Cerrado,438
+2018,11,MT,Centro-Oeste,Cerrado,413
+2018,11,ES,Sudeste,Mata Atlântica,74
+2018,11,MG,Sudeste,Cerrado,264
+2018,11,RJ,Sudeste,Mata Atlântica,102
+2018,11,SP,Sudeste,Mata Atlântica,100
+2018,11,PR,Sul,Mata Atlântica,77
+2018,11,RS,Sul,Pampa,119
+2018,11,SC,Sul,Mata Atlântica,70
+2018,12,AC,Norte,Amazônia,349
+2018,12,AM,Norte,Amazônia,474
+2018,12,AP,Norte,Amazônia,346
+2018,12,PA,Norte,Amazônia,400
+2018,12,RO,Norte,Amazônia,341
+2018,12,RR,Norte,Amazônia,311
+2018,12,TO,Norte,Cerrado,484
+2018,12,AL,Nordeste,Mata Atlântica,86
+2018,12,BA,Nordeste,Caatinga,115
+2018,12,CE,Nordeste,Caatinga,75
+2018,12,MA,Nordeste,Cerrado,296
+2018,12,PB,Nordeste,Caatinga,62
+2018,12,PE,Nordeste,Caatinga,100
+2018,12,PI,Nordeste,Caatinga,83
+2018,12,RN,Nordeste,Caatinga,113
+2018,12,SE,Nordeste,Caatinga,89
+2018,12,GO,Centro-Oeste,Cerrado,480
+2018,12,MS,Centro-Oeste,Cerrado,289
+2018,12,MT,Centro-Oeste,Cerrado,456
+2018,12,ES,Sudeste,Mata Atlântica,108
+2018,12,MG,Sudeste,Cerrado,432
+2018,12,RJ,Sudeste,Mata Atlântica,112
+2018,12,SP,Sudeste,Mata Atlântica,107
+2018,12,PR,Sul,Mata Atlântica,99
+2018,12,RS,Sul,Pampa,69
+2018,12,SC,Sul,Mata Atlântica,63
+2019,1,AC,Norte,Amazônia,481
+2019,1,AM,Norte,Amazônia,405
+2019,1,AP,Norte,Amazônia,450
+2019,1,PA,Norte,Amazônia,371
+2019,1,RO,Norte,Amazônia,280
+2019,1,RR,Norte,Amazônia,282
+2019,1,TO,Norte,Cerrado,422
+2019,1,AL,Nordeste,Mata Atlântica,89
+2019,1,BA,Nordeste,Caatinga,75
+2019,1,CE,Nordeste,Caatinga,93
+2019,1,MA,Nordeste,Cerrado,266
+2019,1,PB,Nordeste,Caatinga,99
+2019,1,PE,Nordeste,Caatinga,79
+2019,1,PI,Nordeste,Caatinga,112
+2019,1,RN,Nordeste,Caatinga,82
+2019,1,SE,Nordeste,Caatinga,91
+2019,1,GO,Centro-Oeste,Cerrado,253
+2019,1,MS,Centro-Oeste,Cerrado,269
+2019,1,MT,Centro-Oeste,Cerrado,349
+2019,1,ES,Sudeste,Mata Atlântica,92
+2019,1,MG,Sudeste,Cerrado,401
+2019,1,RJ,Sudeste,Mata Atlântica,81
+2019,1,SP,Sudeste,Mata Atlântica,106
+2019,1,PR,Sul,Mata Atlântica,116
+2019,1,RS,Sul,Pampa,111
+2019,1,SC,Sul,Mata Atlântica,65
+2019,2,AC,Norte,Amazônia,371
+2019,2,AM,Norte,Amazônia,277
+2019,2,AP,Norte,Amazônia,311
+2019,2,PA,Norte,Amazônia,498
+2019,2,RO,Norte,Amazônia,286
+2019,2,RR,Norte,Amazônia,376
+2019,2,TO,Norte,Cerrado,405
+2019,2,AL,Nordeste,Mata Atlântica,106
+2019,2,BA,Nordeste,Caatinga,97
+2019,2,CE,Nordeste,Caatinga,63
+2019,2,MA,Nordeste,Cerrado,332
+2019,2,PB,Nordeste,Caatinga,95
+2019,2,PE,Nordeste,Caatinga,68
+2019,2,PI,Nordeste,Caatinga,84
+2019,2,RN,Nordeste,Caatinga,64
+2019,2,SE,Nordeste,Caatinga,67
+2019,2,GO,Centro-Oeste,Cerrado,350
+2019,2,MS,Centro-Oeste,Cerrado,284
+2019,2,MT,Centro-Oeste,Cerrado,393
+2019,2,ES,Sudeste,Mata Atlântica,105
+2019,2,MG,Sudeste,Cerrado,451
+2019,2,RJ,Sudeste,Mata Atlântica,75
+2019,2,SP,Sudeste,Mata Atlântica,73
+2019,2,PR,Sul,Mata Atlântica,69
+2019,2,RS,Sul,Pampa,102
+2019,2,SC,Sul,Mata Atlântica,107
+2019,3,AC,Norte,Amazônia,258
+2019,3,AM,Norte,Amazônia,485
+2019,3,AP,Norte,Amazônia,263
+2019,3,PA,Norte,Amazônia,386
+2019,3,RO,Norte,Amazônia,428
+2019,3,RR,Norte,Amazônia,469
+2019,3,TO,Norte,Cerrado,430
+2019,3,AL,Nordeste,Mata Atlântica,113
+2019,3,BA,Nordeste,Caatinga,84
+2019,3,CE,Nordeste,Caatinga,113
+2019,3,MA,Nordeste,Cerrado,270
+2019,3,PB,Nordeste,Caatinga,118
+2019,3,PE,Nordeste,Caatinga,97
+2019,3,PI,Nordeste,Caatinga,113
+2019,3,RN,Nordeste,Caatinga,91
+2019,3,SE,Nordeste,Caatinga,103
+2019,3,GO,Centro-Oeste,Cerrado,382
+2019,3,MS,Centro-Oeste,Cerrado,434
+2019,3,MT,Centro-Oeste,Cerrado,271
+2019,3,ES,Sudeste,Mata Atlântica,66
+2019,3,MG,Sudeste,Cerrado,312
+2019,3,RJ,Sudeste,Mata Atlântica,72
+2019,3,SP,Sudeste,Mata Atlântica,117
+2019,3,PR,Sul,Mata Atlântica,76
+2019,3,RS,Sul,Pampa,123
+2019,3,SC,Sul,Mata Atlântica,83
+2019,4,AC,Norte,Amazônia,296
+2019,4,AM,Norte,Amazônia,448
+2019,4,AP,Norte,Amazônia,416
+2019,4,PA,Norte,Amazônia,375
+2019,4,RO,Norte,Amazônia,390
+2019,4,RR,Norte,Amazônia,431
+2019,4,TO,Norte,Cerrado,308
+2019,4,AL,Nordeste,Mata Atlântica,125
+2019,4,BA,Nordeste,Caatinga,123
+2019,4,CE,Nordeste,Caatinga,103
+2019,4,MA,Nordeste,Cerrado,300
+2019,4,PB,Nordeste,Caatinga,105
+2019,4,PE,Nordeste,Caatinga,67
+2019,4,PI,Nordeste,Caatinga,64
+2019,4,RN,Nordeste,Caatinga,78
+2019,4,SE,Nordeste,Caatinga,91
+2019,4,GO,Centro-Oeste,Cerrado,468
+2019,4,MS,Centro-Oeste,Cerrado,433
+2019,4,MT,Centro-Oeste,Cerrado,437
+2019,4,ES,Sudeste,Mata Atlântica,89
+2019,4,MG,Sudeste,Cerrado,337
+2019,4,RJ,Sudeste,Mata Atlântica,85
+2019,4,SP,Sudeste,Mata Atlântica,124
+2019,4,PR,Sul,Mata Atlântica,65
+2019,4,RS,Sul,Pampa,117
+2019,4,SC,Sul,Mata Atlântica,99
+2019,5,AC,Norte,Amazônia,360
+2019,5,AM,Norte,Amazônia,432
+2019,5,AP,Norte,Amazônia,372
+2019,5,PA,Norte,Amazônia,470
+2019,5,RO,Norte,Amazônia,476
+2019,5,RR,Norte,Amazônia,356
+2019,5,TO,Norte,Cerrado,320
+2019,5,AL,Nordeste,Mata Atlântica,99
+2019,5,BA,Nordeste,Caatinga,119
+2019,5,CE,Nordeste,Caatinga,75
+2019,5,MA,Nordeste,Cerrado,407
+2019,5,PB,Nordeste,Caatinga,102
+2019,5,PE,Nordeste,Caatinga,108
+2019,5,PI,Nordeste,Caatinga,70
+2019,5,RN,Nordeste,Caatinga,107
+2019,5,SE,Nordeste,Caatinga,119
+2019,5,GO,Centro-Oeste,Cerrado,295
+2019,5,MS,Centro-Oeste,Cerrado,310
+2019,5,MT,Centro-Oeste,Cerrado,494
+2019,5,ES,Sudeste,Mata Atlântica,74
+2019,5,MG,Sudeste,Cerrado,465
+2019,5,RJ,Sudeste,Mata Atlântica,93
+2019,5,SP,Sudeste,Mata Atlântica,78
+2019,5,PR,Sul,Mata Atlântica,117
+2019,5,RS,Sul,Pampa,90
+2019,5,SC,Sul,Mata Atlântica,95
+2019,6,AC,Norte,Amazônia,341
+2019,6,AM,Norte,Amazônia,399
+2019,6,AP,Norte,Amazônia,291
+2019,6,PA,Norte,Amazônia,348
+2019,6,RO,Norte,Amazônia,494
+2019,6,RR,Norte,Amazônia,315
+2019,6,TO,Norte,Cerrado,415
+2019,6,AL,Nordeste,Mata Atlântica,83
+2019,6,BA,Nordeste,Caatinga,111
+2019,6,CE,Nordeste,Caatinga,70
+2019,6,MA,Nordeste,Cerrado,494
+2019,6,PB,Nordeste,Caatinga,91
+2019,6,PE,Nordeste,Caatinga,77
+2019,6,PI,Nordeste,Caatinga,67
+2019,6,RN,Nordeste,Caatinga,73
+2019,6,SE,Nordeste,Caatinga,95
+2019,6,GO,Centro-Oeste,Cerrado,335
+2019,6,MS,Centro-Oeste,Cerrado,458
+2019,6,MT,Centro-Oeste,Cerrado,358
+2019,6,ES,Sudeste,Mata Atlântica,78
+2019,6,MG,Sudeste,Cerrado,405
+2019,6,RJ,Sudeste,Mata Atlântica,107
+2019,6,SP,Sudeste,Mata Atlântica,73
+2019,6,PR,Sul,Mata Atlântica,73
+2019,6,RS,Sul,Pampa,65
+2019,6,SC,Sul,Mata Atlântica,108
+2019,7,AC,Norte,Amazônia,2608
+2019,7,AM,Norte,Amazônia,2312
+2019,7,AP,Norte,Amazônia,2891
+2019,7,PA,Norte,Amazônia,2831
+2019,7,RO,Norte,Amazônia,2485
+2019,7,RR,Norte,Amazônia,2929
+2019,7,TO,Norte,Cerrado,1890
+2019,7,AL,Nordeste,Mata Atlântica,435
+2019,7,BA,Nordeste,Caatinga,497
+2019,7,CE,Nordeste,Caatinga,414
+2019,7,MA,Nordeste,Cerrado,2400
+2019,7,PB,Nordeste,Caatinga,759
+2019,7,PE,Nordeste,Caatinga,407
+2019,7,PI,Nordeste,Caatinga,439
+2019,7,RN,Nordeste,Caatinga,569
+2019,7,SE,Nordeste,Caatinga,758
+2019,7,GO,Centro-Oeste,Cerrado,2063
+2019,7,MS,Centro-Oeste,Cerrado,2363
+2019,7,MT,Centro-Oeste,Cerrado,1633
+2019,7,ES,Sudeste,Mata Atlântica,450
+2019,7,MG,Sudeste,Cerrado,3115
+2019,7,RJ,Sudeste,Mata Atlântica,770
+2019,7,SP,Sudeste,Mata Atlântica,393
+2019,7,PR,Sul,Mata Atlântica,765
+2019,7,RS,Sul,Pampa,642
+2019,7,SC,Sul,Mata Atlântica,732
+2019,8,AC,Norte,Amazônia,2281
+2019,8,AM,Norte,Amazônia,2376
+2019,8,AP,Norte,Amazônia,2334
+2019,8,PA,Norte,Amazônia,2613
+2019,8,RO,Norte,Amazônia,1786
+2019,8,RR,Norte,Amazônia,1614
+2019,8,TO,Norte,Cerrado,2050
+2019,8,AL,Nordeste,Mata Atlântica,668
+2019,8,BA,Nordeste,Caatinga,471
+2019,8,CE,Nordeste,Caatinga,655
+2019,8,MA,Nordeste,Cerrado,3088
+2019,8,PB,Nordeste,Caatinga,428
+2019,8,PE,Nordeste,Caatinga,655
+2019,8,PI,Nordeste,Caatinga,565
+2019,8,RN,Nordeste,Caatinga,732
+2019,8,SE,Nordeste,Caatinga,461
+2019,8,GO,Centro-Oeste,Cerrado,2654
+2019,8,MS,Centro-Oeste,Cerrado,2882
+2019,8,MT,Centro-Oeste,Cerrado,3049
+2019,8,ES,Sudeste,Mata Atlântica,659
+2019,8,MG,Sudeste,Cerrado,2347
+2019,8,RJ,Sudeste,Mata Atlântica,634
+2019,8,SP,Sudeste,Mata Atlântica,732
+2019,8,PR,Sul,Mata Atlântica,615
+2019,8,RS,Sul,Pampa,403
+2019,8,SC,Sul,Mata Atlântica,756
+2019,9,AC,Norte,Amazônia,2649
+2019,9,AM,Norte,Amazônia,2628
+2019,9,AP,Norte,Amazônia,1906
+2019,9,PA,Norte,Amazônia,2601
+2019,9,RO,Norte,Amazônia,2185
+2019,9,RR,Norte,Amazônia,2589
+2019,9,TO,Norte,Cerrado,1735
+2019,9,AL,Nordeste,Mata Atlântica,649
+2019,9,BA,Nordeste,Caatinga,783
+2019,9,CE,Nordeste,Caatinga,410
+2019,9,MA,Nordeste,Cerrado,3100
+2019,9,PB,Nordeste,Caatinga,551
+2019,9,PE,Nordeste,Caatinga,733
+2019,9,PI,Nordeste,Caatinga,698
+2019,9,RN,Nordeste,Caatinga,614
+2019,9,SE,Nordeste,Caatinga,681
+2019,9,GO,Centro-Oeste,Cerrado,2945
+2019,9,MS,Centro-Oeste,Cerrado,2201
+2019,9,MT,Centro-Oeste,Cerrado,2080
+2019,9,ES,Sudeste,Mata Atlântica,653
+2019,9,MG,Sudeste,Cerrado,2834
+2019,9,RJ,Sudeste,Mata Atlântica,690
+2019,9,SP,Sudeste,Mata Atlântica,704
+2019,9,PR,Sul,Mata Atlântica,562
+2019,9,RS,Sul,Pampa,712
+2019,9,SC,Sul,Mata Atlântica,439
+2019,10,AC,Norte,Amazônia,2421
+2019,10,AM,Norte,Amazônia,1577
+2019,10,AP,Norte,Amazônia,2076
+2019,10,PA,Norte,Amazônia,2142
+2019,10,RO,Norte,Amazônia,2189
+2019,10,RR,Norte,Amazônia,2658
+2019,10,TO,Norte,Cerrado,2177
+2019,10,AL,Nordeste,Mata Atlântica,567
+2019,10,BA,Nordeste,Caatinga,485
+2019,10,CE,Nordeste,Caatinga,538
+2019,10,MA,Nordeste,Cerrado,1924
+2019,10,PB,Nordeste,Caatinga,420
+2019,10,PE,Nordeste,Caatinga,628
+2019,10,PI,Nordeste,Caatinga,653
+2019,10,RN,Nordeste,Caatinga,634
+2019,10,SE,Nordeste,Caatinga,573
+2019,10,GO,Centro-Oeste,Cerrado,2163
+2019,10,MS,Centro-Oeste,Cerrado,2921
+2019,10,MT,Centro-Oeste,Cerrado,2381
+2019,10,ES,Sudeste,Mata Atlântica,579
+2019,10,MG,Sudeste,Cerrado,1608
+2019,10,RJ,Sudeste,Mata Atlântica,525
+2019,10,SP,Sudeste,Mata Atlântica,541
+2019,10,PR,Sul,Mata Atlântica,548
+2019,10,RS,Sul,Pampa,619
+2019,10,SC,Sul,Mata Atlântica,601
+2019,11,AC,Norte,Amazônia,403
+2019,11,AM,Norte,Amazônia,442
+2019,11,AP,Norte,Amazônia,454
+2019,11,PA,Norte,Amazônia,431
+2019,11,RO,Norte,Amazônia,490
+2019,11,RR,Norte,Amazônia,255
+2019,11,TO,Norte,Cerrado,299
+2019,11,AL,Nordeste,Mata Atlântica,63
+2019,11,BA,Nordeste,Caatinga,103
+2019,11,CE,Nordeste,Caatinga,119
+2019,11,MA,Nordeste,Cerrado,311
+2019,11,PB,Nordeste,Caatinga,120
+2019,11,PE,Nordeste,Caatinga,66
+2019,11,PI,Nordeste,Caatinga,121
+2019,11,RN,Nordeste,Caatinga,84
+2019,11,SE,Nordeste,Caatinga,69
+2019,11,GO,Centro-Oeste,Cerrado,372
+2019,11,MS,Centro-Oeste,Cerrado,315
+2019,11,MT,Centro-Oeste,Cerrado,322
+2019,11,ES,Sudeste,Mata Atlântica,81
+2019,11,MG,Sudeste,Cerrado,452
+2019,11,RJ,Sudeste,Mata Atlântica,96
+2019,11,SP,Sudeste,Mata Atlântica,82
+2019,11,PR,Sul,Mata Atlântica,101
+2019,11,RS,Sul,Pampa,107
+2019,11,SC,Sul,Mata Atlântica,79
+2019,12,AC,Norte,Amazônia,354
+2019,12,AM,Norte,Amazônia,281
+2019,12,AP,Norte,Amazônia,296
+2019,12,PA,Norte,Amazônia,421
+2019,12,RO,Norte,Amazônia,296
+2019,12,RR,Norte,Amazônia,382
+2019,12,TO,Norte,Cerrado,428
+2019,12,AL,Nordeste,Mata Atlântica,69
+2019,12,BA,Nordeste,Caatinga,98
+2019,12,CE,Nordeste,Caatinga,78
+2019,12,MA,Nordeste,Cerrado,492
+2019,12,PB,Nordeste,Caatinga,93
+2019,12,PE,Nordeste,Caatinga,113
+2019,12,PI,Nordeste,Caatinga,97
+2019,12,RN,Nordeste,Caatinga,65
+2019,12,SE,Nordeste,Caatinga,102
+2019,12,GO,Centro-Oeste,Cerrado,489
+2019,12,MS,Centro-Oeste,Cerrado,401
+2019,12,MT,Centro-Oeste,Cerrado,456
+2019,12,ES,Sudeste,Mata Atlântica,118
+2019,12,MG,Sudeste,Cerrado,308
+2019,12,RJ,Sudeste,Mata Atlântica,76
+2019,12,SP,Sudeste,Mata Atlântica,101
+2019,12,PR,Sul,Mata Atlântica,88
+2019,12,RS,Sul,Pampa,115
+2019,12,SC,Sul,Mata Atlântica,119
+2020,1,AC,Norte,Amazônia,348
+2020,1,AM,Norte,Amazônia,318
+2020,1,AP,Norte,Amazônia,458
+2020,1,PA,Norte,Amazônia,328
+2020,1,RO,Norte,Amazônia,469
+2020,1,RR,Norte,Amazônia,366
+2020,1,TO,Norte,Cerrado,429
+2020,1,AL,Nordeste,Mata Atlântica,70
+2020,1,BA,Nordeste,Caatinga,104
+2020,1,CE,Nordeste,Caatinga,93
+2020,1,MA,Nordeste,Cerrado,408
+2020,1,PB,Nordeste,Caatinga,75
+2020,1,PE,Nordeste,Caatinga,111
+2020,1,PI,Nordeste,Caatinga,119
+2020,1,RN,Nordeste,Caatinga,78
+2020,1,SE,Nordeste,Caatinga,70
+2020,1,GO,Centro-Oeste,Cerrado,263
+2020,1,MS,Centro-Oeste,Cerrado,422
+2020,1,MT,Centro-Oeste,Cerrado,413
+2020,1,ES,Sudeste,Mata Atlântica,99
+2020,1,MG,Sudeste,Cerrado,317
+2020,1,RJ,Sudeste,Mata Atlântica,89
+2020,1,SP,Sudeste,Mata Atlântica,102
+2020,1,PR,Sul,Mata Atlântica,96
+2020,1,RS,Sul,Pampa,128
+2020,1,SC,Sul,Mata Atlântica,73
+2020,2,AC,Norte,Amazônia,436
+2020,2,AM,Norte,Amazônia,361
+2020,2,AP,Norte,Amazônia,367
+2020,2,PA,Norte,Amazônia,442
+2020,2,RO,Norte,Amazônia,435
+2020,2,RR,Norte,Amazônia,512
+2020,2,TO,Norte,Cerrado,290
+2020,2,AL,Nordeste,Mata Atlântica,71
+2020,2,BA,Nordeste,Caatinga,111
+2020,2,CE,Nordeste,Caatinga,101
+2020,2,MA,Nordeste,Cerrado,328
+2020,2,PB,Nordeste,Caatinga,69
+2020,2,PE,Nordeste,Caatinga,69
+2020,2,PI,Nordeste,Caatinga,121
+2020,2,RN,Nordeste,Caatinga,76
+2020,2,SE,Nordeste,Caatinga,85
+2020,2,GO,Centro-Oeste,Cerrado,315
+2020,2,MS,Centro-Oeste,Cerrado,349
+2020,2,MT,Centro-Oeste,Cerrado,275
+2020,2,ES,Sudeste,Mata Atlântica,97
+2020,2,MG,Sudeste,Cerrado,275
+2020,2,RJ,Sudeste,Mata Atlântica,115
+2020,2,SP,Sudeste,Mata Atlântica,79
+2020,2,PR,Sul,Mata Atlântica,99
+2020,2,RS,Sul,Pampa,121
+2020,2,SC,Sul,Mata Atlântica,106
+2020,3,AC,Norte,Amazônia,394
+2020,3,AM,Norte,Amazônia,341
+2020,3,AP,Norte,Amazônia,343
+2020,3,PA,Norte,Amazônia,430
+2020,3,RO,Norte,Amazônia,513
+2020,3,RR,Norte,Amazônia,428
+2020,3,TO,Norte,Cerrado,401
+2020,3,AL,Nordeste,Mata Atlântica,111
+2020,3,BA,Nordeste,Caatinga,94
+2020,3,CE,Nordeste,Caatinga,68
+2020,3,MA,Nordeste,Cerrado,402
+2020,3,PB,Nordeste,Caatinga,126
+2020,3,PE,Nordeste,Caatinga,75
+2020,3,PI,Nordeste,Caatinga,108
+2020,3,RN,Nordeste,Caatinga,77
+2020,3,SE,Nordeste,Caatinga,98
+2020,3,GO,Centro-Oeste,Cerrado,282
+2020,3,MS,Centro-Oeste,Cerrado,373
+2020,3,MT,Centro-Oeste,Cerrado,452
+2020,3,ES,Sudeste,Mata Atlântica,86
+2020,3,MG,Sudeste,Cerrado,428
+2020,3,RJ,Sudeste,Mata Atlântica,115
+2020,3,SP,Sudeste,Mata Atlântica,124
+2020,3,PR,Sul,Mata Atlântica,79
+2020,3,RS,Sul,Pampa,90
+2020,3,SC,Sul,Mata Atlântica,74
+2020,4,AC,Norte,Amazônia,513
+2020,4,AM,Norte,Amazônia,496
+2020,4,AP,Norte,Amazônia,396
+2020,4,PA,Norte,Amazônia,474
+2020,4,RO,Norte,Amazônia,391
+2020,4,RR,Norte,Amazônia,418
+2020,4,TO,Norte,Cerrado,280
+2020,4,AL,Nordeste,Mata Atlântica,113
+2020,4,BA,Nordeste,Caatinga,72
+2020,4,CE,Nordeste,Caatinga,117
+2020,4,MA,Nordeste,Cerrado,459
+2020,4,PB,Nordeste,Caatinga,110
+2020,4,PE,Nordeste,Caatinga,66
+2020,4,PI,Nordeste,Caatinga,83
+2020,4,RN,Nordeste,Caatinga,81
+2020,4,SE,Nordeste,Caatinga,87
+2020,4,GO,Centro-Oeste,Cerrado,280
+2020,4,MS,Centro-Oeste,Cerrado,498
+2020,4,MT,Centro-Oeste,Cerrado,400
+2020,4,ES,Sudeste,Mata Atlântica,84
+2020,4,MG,Sudeste,Cerrado,359
+2020,4,RJ,Sudeste,Mata Atlântica,93
+2020,4,SP,Sudeste,Mata Atlântica,103
+2020,4,PR,Sul,Mata Atlântica,97
+2020,4,RS,Sul,Pampa,123
+2020,4,SC,Sul,Mata Atlântica,96
+2020,5,AC,Norte,Amazônia,513
+2020,5,AM,Norte,Amazônia,476
+2020,5,AP,Norte,Amazônia,311
+2020,5,PA,Norte,Amazônia,497
+2020,5,RO,Norte,Amazônia,287
+2020,5,RR,Norte,Amazônia,468
+2020,5,TO,Norte,Cerrado,355
+2020,5,AL,Nordeste,Mata Atlântica,120
+2020,5,BA,Nordeste,Caatinga,120
+2020,5,CE,Nordeste,Caatinga,116
+2020,5,MA,Nordeste,Cerrado,461
+2020,5,PB,Nordeste,Caatinga,84
+2020,5,PE,Nordeste,Caatinga,69
+2020,5,PI,Nordeste,Caatinga,90
+2020,5,RN,Nordeste,Caatinga,75
+2020,5,SE,Nordeste,Caatinga,109
+2020,5,GO,Centro-Oeste,Cerrado,346
+2020,5,MS,Centro-Oeste,Cerrado,508
+2020,5,MT,Centro-Oeste,Cerrado,422
+2020,5,ES,Sudeste,Mata Atlântica,117
+2020,5,MG,Sudeste,Cerrado,291
+2020,5,RJ,Sudeste,Mata Atlântica,119
+2020,5,SP,Sudeste,Mata Atlântica,123
+2020,5,PR,Sul,Mata Atlântica,95
+2020,5,RS,Sul,Pampa,103
+2020,5,SC,Sul,Mata Atlântica,113
+2020,6,AC,Norte,Amazônia,302
+2020,6,AM,Norte,Amazônia,387
+2020,6,AP,Norte,Amazônia,360
+2020,6,PA,Norte,Amazônia,295
+2020,6,RO,Norte,Amazônia,352
+2020,6,RR,Norte,Amazônia,275
+2020,6,TO,Norte,Cerrado,264
+2020,6,AL,Nordeste,Mata Atlântica,73
+2020,6,BA,Nordeste,Caatinga,126
+2020,6,CE,Nordeste,Caatinga,99
+2020,6,MA,Nordeste,Cerrado,506
+2020,6,PB,Nordeste,Caatinga,92
+2020,6,PE,Nordeste,Caatinga,84
+2020,6,PI,Nordeste,Caatinga,96
+2020,6,RN,Nordeste,Caatinga,92
+2020,6,SE,Nordeste,Caatinga,71
+2020,6,GO,Centro-Oeste,Cerrado,422
+2020,6,MS,Centro-Oeste,Cerrado,313
+2020,6,MT,Centro-Oeste,Cerrado,417
+2020,6,ES,Sudeste,Mata Atlântica,106
+2020,6,MG,Sudeste,Cerrado,296
+2020,6,RJ,Sudeste,Mata Atlântica,68
+2020,6,SP,Sudeste,Mata Atlântica,114
+2020,6,PR,Sul,Mata Atlântica,94
+2020,6,RS,Sul,Pampa,68
+2020,6,SC,Sul,Mata Atlântica,128
+2020,7,AC,Norte,Amazônia,1703
+2020,7,AM,Norte,Amazônia,2729
+2020,7,AP,Norte,Amazônia,3193
+2020,7,PA,Norte,Amazônia,1995
+2020,7,RO,Norte,Amazônia,1839
+2020,7,RR,Norte,Amazônia,1805
+2020,7,TO,Norte,Cerrado,2098
+2020,7,AL,Nordeste,Mata Atlântica,443
+2020,7,BA,Nordeste,Caatinga,681
+2020,7,CE,Nordeste,Caatinga,427
+2020,7,MA,Nordeste,Cerrado,2430
+2020,7,PB,Nordeste,Caatinga,803
+2020,7,PE,Nordeste,Caatinga,730
+2020,7,PI,Nordeste,Caatinga,650
+2020,7,RN,Nordeste,Caatinga,525
+2020,7,SE,Nordeste,Caatinga,653
+2020,7,GO,Centro-Oeste,Cerrado,2458
+2020,7,MS,Centro-Oeste,Cerrado,2295
+2020,7,MT,Centro-Oeste,Cerrado,1820
+2020,7,ES,Sudeste,Mata Atlântica,759
+2020,7,MG,Sudeste,Cerrado,2334
+2020,7,RJ,Sudeste,Mata Atlântica,480
+2020,7,SP,Sudeste,Mata Atlântica,550
+2020,7,PR,Sul,Mata Atlântica,569
+2020,7,RS,Sul,Pampa,735
+2020,7,SC,Sul,Mata Atlântica,697
+2020,8,AC,Norte,Amazônia,2848
+2020,8,AM,Norte,Amazônia,1627
+2020,8,AP,Norte,Amazônia,2280
+2020,8,PA,Norte,Amazônia,2384
+2020,8,RO,Norte,Amazônia,1640
+2020,8,RR,Norte,Amazônia,2028
+2020,8,TO,Norte,Cerrado,2834
+2020,8,AL,Nordeste,Mata Atlântica,457
+2020,8,BA,Nordeste,Caatinga,617
+2020,8,CE,Nordeste,Caatinga,489
+2020,8,MA,Nordeste,Cerrado,1629
+2020,8,PB,Nordeste,Caatinga,499
+2020,8,PE,Nordeste,Caatinga,795
+2020,8,PI,Nordeste,Caatinga,725
+2020,8,RN,Nordeste,Caatinga,788
+2020,8,SE,Nordeste,Caatinga,598
+2020,8,GO,Centro-Oeste,Cerrado,1786
+2020,8,MS,Centro-Oeste,Cerrado,2492
+2020,8,MT,Centro-Oeste,Cerrado,2341
+2020,8,ES,Sudeste,Mata Atlântica,742
+2020,8,MG,Sudeste,Cerrado,1767
+2020,8,RJ,Sudeste,Mata Atlântica,599
+2020,8,SP,Sudeste,Mata Atlântica,462
+2020,8,PR,Sul,Mata Atlântica,533
+2020,8,RS,Sul,Pampa,699
+2020,8,SC,Sul,Mata Atlântica,594
+2020,9,AC,Norte,Amazônia,2215
+2020,9,AM,Norte,Amazônia,2245
+2020,9,AP,Norte,Amazônia,2349
+2020,9,PA,Norte,Amazônia,2873
+2020,9,RO,Norte,Amazônia,3046
+2020,9,RR,Norte,Amazônia,3148
+2020,9,TO,Norte,Cerrado,2876
+2020,9,AL,Nordeste,Mata Atlântica,529
+2020,9,BA,Nordeste,Caatinga,679
+2020,9,CE,Nordeste,Caatinga,578
+2020,9,MA,Nordeste,Cerrado,2020
+2020,9,PB,Nordeste,Caatinga,740
+2020,9,PE,Nordeste,Caatinga,417
+2020,9,PI,Nordeste,Caatinga,765
+2020,9,RN,Nordeste,Caatinga,588
+2020,9,SE,Nordeste,Caatinga,658
+2020,9,GO,Centro-Oeste,Cerrado,2671
+2020,9,MS,Centro-Oeste,Cerrado,3051
+2020,9,MT,Centro-Oeste,Cerrado,2635
+2020,9,ES,Sudeste,Mata Atlântica,649
+2020,9,MG,Sudeste,Cerrado,1717
+2020,9,RJ,Sudeste,Mata Atlântica,611
+2020,9,SP,Sudeste,Mata Atlântica,462
+2020,9,PR,Sul,Mata Atlântica,699
+2020,9,RS,Sul,Pampa,608
+2020,9,SC,Sul,Mata Atlântica,676
+2020,10,AC,Norte,Amazônia,1677
+2020,10,AM,Norte,Amazônia,1746
+2020,10,AP,Norte,Amazônia,2763
+2020,10,PA,Norte,Amazônia,1726
+2020,10,RO,Norte,Amazônia,1724
+2020,10,RR,Norte,Amazônia,1629
+2020,10,TO,Norte,Cerrado,3149
+2020,10,AL,Nordeste,Mata Atlântica,699
+2020,10,BA,Nordeste,Caatinga,544
+2020,10,CE,Nordeste,Caatinga,521
+2020,10,MA,Nordeste,Cerrado,2173
+2020,10,PB,Nordeste,Caatinga,714
+2020,10,PE,Nordeste,Caatinga,668
+2020,10,PI,Nordeste,Caatinga,477
+2020,10,RN,Nordeste,Caatinga,472
+2020,10,SE,Nordeste,Caatinga,442
+2020,10,GO,Centro-Oeste,Cerrado,2673
+2020,10,MS,Centro-Oeste,Cerrado,2840
+2020,10,MT,Centro-Oeste,Cerrado,2036
+2020,10,ES,Sudeste,Mata Atlântica,410
+2020,10,MG,Sudeste,Cerrado,1742
+2020,10,RJ,Sudeste,Mata Atlântica,792
+2020,10,SP,Sudeste,Mata Atlântica,521
+2020,10,PR,Sul,Mata Atlântica,712
+2020,10,RS,Sul,Pampa,653
+2020,10,SC,Sul,Mata Atlântica,556
+2020,11,AC,Norte,Amazônia,310
+2020,11,AM,Norte,Amazônia,288
+2020,11,AP,Norte,Amazônia,416
+2020,11,PA,Norte,Amazônia,457
+2020,11,RO,Norte,Amazônia,423
+2020,11,RR,Norte,Amazônia,394
+2020,11,TO,Norte,Cerrado,268
+2020,11,AL,Nordeste,Mata Atlântica,126
+2020,11,BA,Nordeste,Caatinga,115
+2020,11,CE,Nordeste,Caatinga,83
+2020,11,MA,Nordeste,Cerrado,510
+2020,11,PB,Nordeste,Caatinga,103
+2020,11,PE,Nordeste,Caatinga,101
+2020,11,PI,Nordeste,Caatinga,112
+2020,11,RN,Nordeste,Caatinga,116
+2020,11,SE,Nordeste,Caatinga,106
+2020,11,GO,Centro-Oeste,Cerrado,290
+2020,11,MS,Centro-Oeste,Cerrado,344
+2020,11,MT,Centro-Oeste,Cerrado,496
+2020,11,ES,Sudeste,Mata Atlântica,78
+2020,11,MG,Sudeste,Cerrado,353
+2020,11,RJ,Sudeste,Mata Atlântica,92
+2020,11,SP,Sudeste,Mata Atlântica,92
+2020,11,PR,Sul,Mata Atlântica,103
+2020,11,RS,Sul,Pampa,125
+2020,11,SC,Sul,Mata Atlântica,79
+2020,12,AC,Norte,Amazônia,288
+2020,12,AM,Norte,Amazônia,308
+2020,12,AP,Norte,Amazônia,486
+2020,12,PA,Norte,Amazônia,423
+2020,12,RO,Norte,Amazônia,331
+2020,12,RR,Norte,Amazônia,467
+2020,12,TO,Norte,Cerrado,479
+2020,12,AL,Nordeste,Mata Atlântica,118
+2020,12,BA,Nordeste,Caatinga,123
+2020,12,CE,Nordeste,Caatinga,80
+2020,12,MA,Nordeste,Cerrado,452
+2020,12,PB,Nordeste,Caatinga,94
+2020,12,PE,Nordeste,Caatinga,118
+2020,12,PI,Nordeste,Caatinga,111
+2020,12,RN,Nordeste,Caatinga,114
+2020,12,SE,Nordeste,Caatinga,106
+2020,12,GO,Centro-Oeste,Cerrado,303
+2020,12,MS,Centro-Oeste,Cerrado,397
+2020,12,MT,Centro-Oeste,Cerrado,511
+2020,12,ES,Sudeste,Mata Atlântica,124
+2020,12,MG,Sudeste,Cerrado,268
+2020,12,RJ,Sudeste,Mata Atlântica,75
+2020,12,SP,Sudeste,Mata Atlântica,72
+2020,12,PR,Sul,Mata Atlântica,111
+2020,12,RS,Sul,Pampa,117
+2020,12,SC,Sul,Mata Atlântica,78
+2021,1,AC,Norte,Amazônia,398
+2021,1,AM,Norte,Amazônia,486
+2021,1,AP,Norte,Amazônia,458
+2021,1,PA,Norte,Amazônia,407
+2021,1,RO,Norte,Amazônia,420
+2021,1,RR,Norte,Amazônia,398
+2021,1,TO,Norte,Cerrado,342
+2021,1,AL,Nordeste,Mata Atlântica,103
+2021,1,BA,Nordeste,Caatinga,111
+2021,1,CE,Nordeste,Caatinga,123
+2021,1,MA,Nordeste,Cerrado,432
+2021,1,PB,Nordeste,Caatinga,116
+2021,1,PE,Nordeste,Caatinga,76
+2021,1,PI,Nordeste,Caatinga,96
+2021,1,RN,Nordeste,Caatinga,66
+2021,1,SE,Nordeste,Caatinga,82
+2021,1,GO,Centro-Oeste,Cerrado,456
+2021,1,MS,Centro-Oeste,Cerrado,526
+2021,1,MT,Centro-Oeste,Cerrado,290
+2021,1,ES,Sudeste,Mata Atlântica,92
+2021,1,MG,Sudeste,Cerrado,475
+2021,1,RJ,Sudeste,Mata Atlântica,79
+2021,1,SP,Sudeste,Mata Atlântica,102
+2021,1,PR,Sul,Mata Atlântica,114
+2021,1,RS,Sul,Pampa,106
+2021,1,SC,Sul,Mata Atlântica,78
+2021,2,AC,Norte,Amazônia,358
+2021,2,AM,Norte,Amazônia,471
+2021,2,AP,Norte,Amazônia,410
+2021,2,PA,Norte,Amazônia,265
+2021,2,RO,Norte,Amazônia,465
+2021,2,RR,Norte,Amazônia,273
+2021,2,TO,Norte,Cerrado,461
+2021,2,AL,Nordeste,Mata Atlântica,79
+2021,2,BA,Nordeste,Caatinga,129
+2021,2,CE,Nordeste,Caatinga,90
+2021,2,MA,Nordeste,Cerrado,350
+2021,2,PB,Nordeste,Caatinga,75
+2021,2,PE,Nordeste,Caatinga,86
+2021,2,PI,Nordeste,Caatinga,124
+2021,2,RN,Nordeste,Caatinga,131
+2021,2,SE,Nordeste,Caatinga,90
+2021,2,GO,Centro-Oeste,Cerrado,382
+2021,2,MS,Centro-Oeste,Cerrado,455
+2021,2,MT,Centro-Oeste,Cerrado,498
+2021,2,ES,Sudeste,Mata Atlântica,105
+2021,2,MG,Sudeste,Cerrado,367
+2021,2,RJ,Sudeste,Mata Atlântica,93
+2021,2,SP,Sudeste,Mata Atlântica,112
+2021,2,PR,Sul,Mata Atlântica,66
+2021,2,RS,Sul,Pampa,107
+2021,2,SC,Sul,Mata Atlântica,89
+2021,3,AC,Norte,Amazônia,474
+2021,3,AM,Norte,Amazônia,288
+2021,3,AP,Norte,Amazônia,419
+2021,3,PA,Norte,Amazônia,391
+2021,3,RO,Norte,Amazônia,434
+2021,3,RR,Norte,Amazônia,281
+2021,3,TO,Norte,Cerrado,417
+2021,3,AL,Nordeste,Mata Atlântica,103
+2021,3,BA,Nordeste,Caatinga,103
+2021,3,CE,Nordeste,Caatinga,105
+2021,3,MA,Nordeste,Cerrado,443
+2021,3,PB,Nordeste,Caatinga,119
+2021,3,PE,Nordeste,Caatinga,83
+2021,3,PI,Nordeste,Caatinga,120
+2021,3,RN,Nordeste,Caatinga,99
+2021,3,SE,Nordeste,Caatinga,71
+2021,3,GO,Centro-Oeste,Cerrado,279
+2021,3,MS,Centro-Oeste,Cerrado,352
+2021,3,MT,Centro-Oeste,Cerrado,471
+2021,3,ES,Sudeste,Mata Atlântica,112
+2021,3,MG,Sudeste,Cerrado,472
+2021,3,RJ,Sudeste,Mata Atlântica,100
+2021,3,SP,Sudeste,Mata Atlântica,95
+2021,3,PR,Sul,Mata Atlântica,75
+2021,3,RS,Sul,Pampa,87
+2021,3,SC,Sul,Mata Atlântica,94
+2021,4,AC,Norte,Amazônia,287
+2021,4,AM,Norte,Amazônia,322
+2021,4,AP,Norte,Amazônia,422
+2021,4,PA,Norte,Amazônia,458
+2021,4,RO,Norte,Amazônia,528
+2021,4,RR,Norte,Amazônia,510
+2021,4,TO,Norte,Cerrado,434
+2021,4,AL,Nordeste,Mata Atlântica,93
+2021,4,BA,Nordeste,Caatinga,108
+2021,4,CE,Nordeste,Caatinga,117
+2021,4,MA,Nordeste,Cerrado,295
+2021,4,PB,Nordeste,Caatinga,93
+2021,4,PE,Nordeste,Caatinga,121
+2021,4,PI,Nordeste,Caatinga,91
+2021,4,RN,Nordeste,Caatinga,103
+2021,4,SE,Nordeste,Caatinga,104
+2021,4,GO,Centro-Oeste,Cerrado,313
+2021,4,MS,Centro-Oeste,Cerrado,360
+2021,4,MT,Centro-Oeste,Cerrado,352
+2021,4,ES,Sudeste,Mata Atlântica,67
+2021,4,MG,Sudeste,Cerrado,270
+2021,4,RJ,Sudeste,Mata Atlântica,121
+2021,4,SP,Sudeste,Mata Atlântica,84
+2021,4,PR,Sul,Mata Atlântica,100
+2021,4,RS,Sul,Pampa,85
+2021,4,SC,Sul,Mata Atlântica,128
+2021,5,AC,Norte,Amazônia,332
+2021,5,AM,Norte,Amazônia,377
+2021,5,AP,Norte,Amazônia,495
+2021,5,PA,Norte,Amazônia,486
+2021,5,RO,Norte,Amazônia,313
+2021,5,RR,Norte,Amazônia,476
+2021,5,TO,Norte,Cerrado,385
+2021,5,AL,Nordeste,Mata Atlântica,97
+2021,5,BA,Nordeste,Caatinga,74
+2021,5,CE,Nordeste,Caatinga,71
+2021,5,MA,Nordeste,Cerrado,456
+2021,5,PB,Nordeste,Caatinga,98
+2021,5,PE,Nordeste,Caatinga,94
+2021,5,PI,Nordeste,Caatinga,114
+2021,5,RN,Nordeste,Caatinga,116
+2021,5,SE,Nordeste,Caatinga,76
+2021,5,GO,Centro-Oeste,Cerrado,425
+2021,5,MS,Centro-Oeste,Cerrado,300
+2021,5,MT,Centro-Oeste,Cerrado,462
+2021,5,ES,Sudeste,Mata Atlântica,109
+2021,5,MG,Sudeste,Cerrado,517
+2021,5,RJ,Sudeste,Mata Atlântica,70
+2021,5,SP,Sudeste,Mata Atlântica,69
+2021,5,PR,Sul,Mata Atlântica,84
+2021,5,RS,Sul,Pampa,83
+2021,5,SC,Sul,Mata Atlântica,82
+2021,6,AC,Norte,Amazônia,503
+2021,6,AM,Norte,Amazônia,330
+2021,6,AP,Norte,Amazônia,336
+2021,6,PA,Norte,Amazônia,465
+2021,6,RO,Norte,Amazônia,383
+2021,6,RR,Norte,Amazônia,469
+2021,6,TO,Norte,Cerrado,281
+2021,6,AL,Nordeste,Mata Atlântica,98
+2021,6,BA,Nordeste,Caatinga,68
+2021,6,CE,Nordeste,Caatinga,70
+2021,6,MA,Nordeste,Cerrado,503
+2021,6,PB,Nordeste,Caatinga,75
+2021,6,PE,Nordeste,Caatinga,101
+2021,6,PI,Nordeste,Caatinga,93
+2021,6,RN,Nordeste,Caatinga,89
+2021,6,SE,Nordeste,Caatinga,125
+2021,6,GO,Centro-Oeste,Cerrado,270
+2021,6,MS,Centro-Oeste,Cerrado,439
+2021,6,MT,Centro-Oeste,Cerrado,518
+2021,6,ES,Sudeste,Mata Atlântica,103
+2021,6,MG,Sudeste,Cerrado,511
+2021,6,RJ,Sudeste,Mata Atlântica,69
+2021,6,SP,Sudeste,Mata Atlântica,93
+2021,6,PR,Sul,Mata Atlântica,83
+2021,6,RS,Sul,Pampa,114
+2021,6,SC,Sul,Mata Atlântica,130
+2021,7,AC,Norte,Amazônia,2075
+2021,7,AM,Norte,Amazônia,2732
+2021,7,AP,Norte,Amazônia,1979
+2021,7,PA,Norte,Amazônia,2585
+2021,7,RO,Norte,Amazônia,2418
+2021,7,RR,Norte,Amazônia,3257
+2021,7,TO,Norte,Cerrado,2657
+2021,7,AL,Nordeste,Mata Atlântica,557
+2021,7,BA,Nordeste,Caatinga,460
+2021,7,CE,Nordeste,Caatinga,475
+2021,7,MA,Nordeste,Cerrado,2024
+2021,7,PB,Nordeste,Caatinga,516
+2021,7,PE,Nordeste,Caatinga,764
+2021,7,PI,Nordeste,Caatinga,644
+2021,7,RN,Nordeste,Caatinga,629
+2021,7,SE,Nordeste,Caatinga,460
+2021,7,GO,Centro-Oeste,Cerrado,3072
+2021,7,MS,Centro-Oeste,Cerrado,2846
+2021,7,MT,Centro-Oeste,Cerrado,1763
+2021,7,ES,Sudeste,Mata Atlântica,705
+2021,7,MG,Sudeste,Cerrado,2549
+2021,7,RJ,Sudeste,Mata Atlântica,446
+2021,7,SP,Sudeste,Mata Atlântica,602
+2021,7,PR,Sul,Mata Atlântica,613
+2021,7,RS,Sul,Pampa,481
+2021,7,SC,Sul,Mata Atlântica,803
+2021,8,AC,Norte,Amazônia,3056
+2021,8,AM,Norte,Amazônia,2757
+2021,8,AP,Norte,Amazônia,2415
+2021,8,PA,Norte,Amazônia,2332
+2021,8,RO,Norte,Amazônia,2727
+2021,8,RR,Norte,Amazônia,2553
+2021,8,TO,Norte,Cerrado,1754
+2021,8,AL,Nordeste,Mata Atlântica,624
+2021,8,BA,Nordeste,Caatinga,746
+2021,8,CE,Nordeste,Caatinga,602
+2021,8,MA,Nordeste,Cerrado,1737
+2021,8,PB,Nordeste,Caatinga,737
+2021,8,PE,Nordeste,Caatinga,496
+2021,8,PI,Nordeste,Caatinga,519
+2021,8,RN,Nordeste,Caatinga,481
+2021,8,SE,Nordeste,Caatinga,549
+2021,8,GO,Centro-Oeste,Cerrado,2902
+2021,8,MS,Centro-Oeste,Cerrado,2510
+2021,8,MT,Centro-Oeste,Cerrado,1990
+2021,8,ES,Sudeste,Mata Atlântica,775
+2021,8,MG,Sudeste,Cerrado,3105
+2021,8,RJ,Sudeste,Mata Atlântica,772
+2021,8,SP,Sudeste,Mata Atlântica,511
+2021,8,PR,Sul,Mata Atlântica,599
+2021,8,RS,Sul,Pampa,819
+2021,8,SC,Sul,Mata Atlântica,731
+2021,9,AC,Norte,Amazônia,1696
+2021,9,AM,Norte,Amazônia,1759
+2021,9,AP,Norte,Amazônia,2418
+2021,9,PA,Norte,Amazônia,3154
+2021,9,RO,Norte,Amazônia,2541
+2021,9,RR,Norte,Amazônia,2474
+2021,9,TO,Norte,Cerrado,1826
+2021,9,AL,Nordeste,Mata Atlântica,684
+2021,9,BA,Nordeste,Caatinga,752
+2021,9,CE,Nordeste,Caatinga,570
+2021,9,MA,Nordeste,Cerrado,2933
+2021,9,PB,Nordeste,Caatinga,811
+2021,9,PE,Nordeste,Caatinga,497
+2021,9,PI,Nordeste,Caatinga,629
+2021,9,RN,Nordeste,Caatinga,531
+2021,9,SE,Nordeste,Caatinga,740
+2021,9,GO,Centro-Oeste,Cerrado,2606
+2021,9,MS,Centro-Oeste,Cerrado,2700
+2021,9,MT,Centro-Oeste,Cerrado,2970
+2021,9,ES,Sudeste,Mata Atlântica,576
+2021,9,MG,Sudeste,Cerrado,3163
+2021,9,RJ,Sudeste,Mata Atlântica,633
+2021,9,SP,Sudeste,Mata Atlântica,478
+2021,9,PR,Sul,Mata Atlântica,700
+2021,9,RS,Sul,Pampa,740
+2021,9,SC,Sul,Mata Atlântica,543
+2021,10,AC,Norte,Amazônia,3068
+2021,10,AM,Norte,Amazônia,3148
+2021,10,AP,Norte,Amazônia,2109
+2021,10,PA,Norte,Amazônia,3276
+2021,10,RO,Norte,Amazônia,1884
+2021,10,RR,Norte,Amazônia,1985
+2021,10,TO,Norte,Cerrado,1956
+2021,10,AL,Nordeste,Mata Atlântica,782
+2021,10,BA,Nordeste,Caatinga,683
+2021,10,CE,Nordeste,Caatinga,475
+2021,10,MA,Nordeste,Cerrado,2379
+2021,10,PB,Nordeste,Caatinga,667
+2021,10,PE,Nordeste,Caatinga,447
+2021,10,PI,Nordeste,Caatinga,777
+2021,10,RN,Nordeste,Caatinga,744
+2021,10,SE,Nordeste,Caatinga,621
+2021,10,GO,Centro-Oeste,Cerrado,3249
+2021,10,MS,Centro-Oeste,Cerrado,2342
+2021,10,MT,Centro-Oeste,Cerrado,3277
+2021,10,ES,Sudeste,Mata Atlântica,688
+2021,10,MG,Sudeste,Cerrado,2700
+2021,10,RJ,Sudeste,Mata Atlântica,481
+2021,10,SP,Sudeste,Mata Atlântica,777
+2021,10,PR,Sul,Mata Atlântica,589
+2021,10,RS,Sul,Pampa,480
+2021,10,SC,Sul,Mata Atlântica,418
+2021,11,AC,Norte,Amazônia,412
+2021,11,AM,Norte,Amazônia,403
+2021,11,AP,Norte,Amazônia,454
+2021,11,PA,Norte,Amazônia,499
+2021,11,RO,Norte,Amazônia,285
+2021,11,RR,Norte,Amazônia,457
+2021,11,TO,Norte,Cerrado,313
+2021,11,AL,Nordeste,Mata Atlântica,122
+2021,11,BA,Nordeste,Caatinga,120
+2021,11,CE,Nordeste,Caatinga,101
+2021,11,MA,Nordeste,Cerrado,452
+2021,11,PB,Nordeste,Caatinga,86
+2021,11,PE,Nordeste,Caatinga,97
+2021,11,PI,Nordeste,Caatinga,120
+2021,11,RN,Nordeste,Caatinga,96
+2021,11,SE,Nordeste,Caatinga,89
+2021,11,GO,Centro-Oeste,Cerrado,394
+2021,11,MS,Centro-Oeste,Cerrado,483
+2021,11,MT,Centro-Oeste,Cerrado,352
+2021,11,ES,Sudeste,Mata Atlântica,77
+2021,11,MG,Sudeste,Cerrado,452
+2021,11,RJ,Sudeste,Mata Atlântica,120
+2021,11,SP,Sudeste,Mata Atlântica,72
+2021,11,PR,Sul,Mata Atlântica,81
+2021,11,RS,Sul,Pampa,75
+2021,11,SC,Sul,Mata Atlântica,89
+2021,12,AC,Norte,Amazônia,383
+2021,12,AM,Norte,Amazônia,462
+2021,12,AP,Norte,Amazônia,436
+2021,12,PA,Norte,Amazônia,428
+2021,12,RO,Norte,Amazônia,357
+2021,12,RR,Norte,Amazônia,486
+2021,12,TO,Norte,Cerrado,388
+2021,12,AL,Nordeste,Mata Atlântica,130
+2021,12,BA,Nordeste,Caatinga,107
+2021,12,CE,Nordeste,Caatinga,74
+2021,12,MA,Nordeste,Cerrado,443
+2021,12,PB,Nordeste,Caatinga,87
+2021,12,PE,Nordeste,Caatinga,111
+2021,12,PI,Nordeste,Caatinga,70
+2021,12,RN,Nordeste,Caatinga,77
+2021,12,SE,Nordeste,Caatinga,122
+2021,12,GO,Centro-Oeste,Cerrado,324
+2021,12,MS,Centro-Oeste,Cerrado,485
+2021,12,MT,Centro-Oeste,Cerrado,338
+2021,12,ES,Sudeste,Mata Atlântica,108
+2021,12,MG,Sudeste,Cerrado,447
+2021,12,RJ,Sudeste,Mata Atlântica,99
+2021,12,SP,Sudeste,Mata Atlântica,86
+2021,12,PR,Sul,Mata Atlântica,80
+2021,12,RS,Sul,Pampa,68
+2021,12,SC,Sul,Mata Atlântica,86
+2022,1,AC,Norte,Amazônia,448
+2022,1,AM,Norte,Amazônia,525
+2022,1,AP,Norte,Amazônia,507
+2022,1,PA,Norte,Amazônia,478
+2022,1,RO,Norte,Amazônia,484
+2022,1,RR,Norte,Amazônia,451
+2022,1,TO,Norte,Cerrado,341
+2022,1,AL,Nordeste,Mata Atlântica,129
+2022,1,BA,Nordeste,Caatinga,113
+2022,1,CE,Nordeste,Caatinga,105
+2022,1,MA,Nordeste,Cerrado,301
+2022,1,PB,Nordeste,Caatinga,98
+2022,1,PE,Nordeste,Caatinga,98
+2022,1,PI,Nordeste,Caatinga,126
+2022,1,RN,Nordeste,Caatinga,104
+2022,1,SE,Nordeste,Caatinga,93
+2022,1,GO,Centro-Oeste,Cerrado,535
+2022,1,MS,Centro-Oeste,Cerrado,301
+2022,1,MT,Centro-Oeste,Cerrado,385
+2022,1,ES,Sudeste,Mata Atlântica,70
+2022,1,MG,Sudeste,Cerrado,471
+2022,1,RJ,Sudeste,Mata Atlântica,129
+2022,1,SP,Sudeste,Mata Atlântica,86
+2022,1,PR,Sul,Mata Atlântica,125
+2022,1,RS,Sul,Pampa,87
+2022,1,SC,Sul,Mata Atlântica,129
+2022,2,AC,Norte,Amazônia,475
+2022,2,AM,Norte,Amazônia,489
+2022,2,AP,Norte,Amazônia,275
+2022,2,PA,Norte,Amazônia,532
+2022,2,RO,Norte,Amazônia,467
+2022,2,RR,Norte,Amazônia,353
+2022,2,TO,Norte,Cerrado,495
+2022,2,AL,Nordeste,Mata Atlântica,86
+2022,2,BA,Nordeste,Caatinga,126
+2022,2,CE,Nordeste,Caatinga,75
+2022,2,MA,Nordeste,Cerrado,461
+2022,2,PB,Nordeste,Caatinga,104
+2022,2,PE,Nordeste,Caatinga,74
+2022,2,PI,Nordeste,Caatinga,84
+2022,2,RN,Nordeste,Caatinga,68
+2022,2,SE,Nordeste,Caatinga,99
+2022,2,GO,Centro-Oeste,Cerrado,352
+2022,2,MS,Centro-Oeste,Cerrado,433
+2022,2,MT,Centro-Oeste,Cerrado,351
+2022,2,ES,Sudeste,Mata Atlântica,88
+2022,2,MG,Sudeste,Cerrado,472
+2022,2,RJ,Sudeste,Mata Atlântica,71
+2022,2,SP,Sudeste,Mata Atlântica,128
+2022,2,PR,Sul,Mata Atlântica,125
+2022,2,RS,Sul,Pampa,113
+2022,2,SC,Sul,Mata Atlântica,107
+2022,3,AC,Norte,Amazônia,512
+2022,3,AM,Norte,Amazônia,321
+2022,3,AP,Norte,Amazônia,292
+2022,3,PA,Norte,Amazônia,335
+2022,3,RO,Norte,Amazônia,486
+2022,3,RR,Norte,Amazônia,280
+2022,3,TO,Norte,Cerrado,429
+2022,3,AL,Nordeste,Mata Atlântica,135
+2022,3,BA,Nordeste,Caatinga,125
+2022,3,CE,Nordeste,Caatinga,103
+2022,3,MA,Nordeste,Cerrado,288
+2022,3,PB,Nordeste,Caatinga,124
+2022,3,PE,Nordeste,Caatinga,108
+2022,3,PI,Nordeste,Caatinga,75
+2022,3,RN,Nordeste,Caatinga,74
+2022,3,SE,Nordeste,Caatinga,129
+2022,3,GO,Centro-Oeste,Cerrado,452
+2022,3,MS,Centro-Oeste,Cerrado,495
+2022,3,MT,Centro-Oeste,Cerrado,509
+2022,3,ES,Sudeste,Mata Atlântica,106
+2022,3,MG,Sudeste,Cerrado,411
+2022,3,RJ,Sudeste,Mata Atlântica,96
+2022,3,SP,Sudeste,Mata Atlântica,89
+2022,3,PR,Sul,Mata Atlântica,97
+2022,3,RS,Sul,Pampa,120
+2022,3,SC,Sul,Mata Atlântica,108
+2022,4,AC,Norte,Amazônia,512
+2022,4,AM,Norte,Amazônia,391
+2022,4,AP,Norte,Amazônia,435
+2022,4,PA,Norte,Amazônia,442
+2022,4,RO,Norte,Amazônia,431
+2022,4,RR,Norte,Amazônia,461
+2022,4,TO,Norte,Cerrado,335
+2022,4,AL,Nordeste,Mata Atlântica,102
+2022,4,BA,Nordeste,Caatinga,74
+2022,4,CE,Nordeste,Caatinga,93
+2022,4,MA,Nordeste,Cerrado,403
+2022,4,PB,Nordeste,Caatinga,111
+2022,4,PE,Nordeste,Caatinga,132
+2022,4,PI,Nordeste,Caatinga,108
+2022,4,RN,Nordeste,Caatinga,118
+2022,4,SE,Nordeste,Caatinga,102
+2022,4,GO,Centro-Oeste,Cerrado,442
+2022,4,MS,Centro-Oeste,Cerrado,290
+2022,4,MT,Centro-Oeste,Cerrado,339
+2022,4,ES,Sudeste,Mata Atlântica,92
+2022,4,MG,Sudeste,Cerrado,399
+2022,4,RJ,Sudeste,Mata Atlântica,70
+2022,4,SP,Sudeste,Mata Atlântica,77
+2022,4,PR,Sul,Mata Atlântica,86
+2022,4,RS,Sul,Pampa,133
+2022,4,SC,Sul,Mata Atlântica,90
+2022,5,AC,Norte,Amazônia,401
+2022,5,AM,Norte,Amazônia,324
+2022,5,AP,Norte,Amazônia,436
+2022,5,PA,Norte,Amazônia,347
+2022,5,RO,Norte,Amazônia,327
+2022,5,RR,Norte,Amazônia,411
+2022,5,TO,Norte,Cerrado,272
+2022,5,AL,Nordeste,Mata Atlântica,68
+2022,5,BA,Nordeste,Caatinga,82
+2022,5,CE,Nordeste,Caatinga,70
+2022,5,MA,Nordeste,Cerrado,300
+2022,5,PB,Nordeste,Caatinga,90
+2022,5,PE,Nordeste,Caatinga,122
+2022,5,PI,Nordeste,Caatinga,106
+2022,5,RN,Nordeste,Caatinga,102
+2022,5,SE,Nordeste,Caatinga,87
+2022,5,GO,Centro-Oeste,Cerrado,523
+2022,5,MS,Centro-Oeste,Cerrado,378
+2022,5,MT,Centro-Oeste,Cerrado,294
+2022,5,ES,Sudeste,Mata Atlântica,109
+2022,5,MG,Sudeste,Cerrado,301
+2022,5,RJ,Sudeste,Mata Atlântica,91
+2022,5,SP,Sudeste,Mata Atlântica,102
+2022,5,PR,Sul,Mata Atlântica,126
+2022,5,RS,Sul,Pampa,101
+2022,5,SC,Sul,Mata Atlântica,115
+2022,6,AC,Norte,Amazônia,540
+2022,6,AM,Norte,Amazônia,306
+2022,6,AP,Norte,Amazônia,345
+2022,6,PA,Norte,Amazônia,377
+2022,6,RO,Norte,Amazônia,385
+2022,6,RR,Norte,Amazônia,382
+2022,6,TO,Norte,Cerrado,517
+2022,6,AL,Nordeste,Mata Atlântica,116
+2022,6,BA,Nordeste,Caatinga,108
+2022,6,CE,Nordeste,Caatinga,88
+2022,6,MA,Nordeste,Cerrado,494
+2022,6,PB,Nordeste,Caatinga,132
+2022,6,PE,Nordeste,Caatinga,123
+2022,6,PI,Nordeste,Caatinga,67
+2022,6,RN,Nordeste,Caatinga,110
+2022,6,SE,Nordeste,Caatinga,71
+2022,6,GO,Centro-Oeste,Cerrado,340
+2022,6,MS,Centro-Oeste,Cerrado,287
+2022,6,MT,Centro-Oeste,Cerrado,434
+2022,6,ES,Sudeste,Mata Atlântica,114
+2022,6,MG,Sudeste,Cerrado,302
+2022,6,RJ,Sudeste,Mata Atlântica,93
+2022,6,SP,Sudeste,Mata Atlântica,98
+2022,6,PR,Sul,Mata Atlântica,92
+2022,6,RS,Sul,Pampa,75
+2022,6,SC,Sul,Mata Atlântica,96
+2022,7,AC,Norte,Amazônia,2966
+2022,7,AM,Norte,Amazônia,1814
+2022,7,AP,Norte,Amazônia,1829
+2022,7,PA,Norte,Amazônia,2294
+2022,7,RO,Norte,Amazônia,3289
+2022,7,RR,Norte,Amazônia,2826
+2022,7,TO,Norte,Cerrado,2843
+2022,7,AL,Nordeste,Mata Atlântica,576
+2022,7,BA,Nordeste,Caatinga,674
+2022,7,CE,Nordeste,Caatinga,427
+2022,7,MA,Nordeste,Cerrado,2771
+2022,7,PB,Nordeste,Caatinga,810
+2022,7,PE,Nordeste,Caatinga,682
+2022,7,PI,Nordeste,Caatinga,793
+2022,7,RN,Nordeste,Caatinga,730
+2022,7,SE,Nordeste,Caatinga,474
+2022,7,GO,Centro-Oeste,Cerrado,3222
+2022,7,MS,Centro-Oeste,Cerrado,1806
+2022,7,MT,Centro-Oeste,Cerrado,2598
+2022,7,ES,Sudeste,Mata Atlântica,483
+2022,7,MG,Sudeste,Cerrado,1713
+2022,7,RJ,Sudeste,Mata Atlântica,602
+2022,7,SP,Sudeste,Mata Atlântica,548
+2022,7,PR,Sul,Mata Atlântica,629
+2022,7,RS,Sul,Pampa,667
+2022,7,SC,Sul,Mata Atlântica,442
+2022,8,AC,Norte,Amazônia,1902
+2022,8,AM,Norte,Amazônia,2640
+2022,8,AP,Norte,Amazônia,2275
+2022,8,PA,Norte,Amazônia,2929
+2022,8,RO,Norte,Amazônia,2798
+2022,8,RR,Norte,Amazônia,3126
+2022,8,TO,Norte,Cerrado,2867
+2022,8,AL,Nordeste,Mata Atlântica,605
+2022,8,BA,Nordeste,Caatinga,708
+2022,8,CE,Nordeste,Caatinga,540
+2022,8,MA,Nordeste,Cerrado,2212
+2022,8,PB,Nordeste,Caatinga,757
+2022,8,PE,Nordeste,Caatinga,612
+2022,8,PI,Nordeste,Caatinga,761
+2022,8,RN,Nordeste,Caatinga,771
+2022,8,SE,Nordeste,Caatinga,786
+2022,8,GO,Centro-Oeste,Cerrado,3246
+2022,8,MS,Centro-Oeste,Cerrado,2424
+2022,8,MT,Centro-Oeste,Cerrado,2234
+2022,8,ES,Sudeste,Mata Atlântica,670
+2022,8,MG,Sudeste,Cerrado,2322
+2022,8,RJ,Sudeste,Mata Atlântica,678
+2022,8,SP,Sudeste,Mata Atlântica,722
+2022,8,PR,Sul,Mata Atlântica,715
+2022,8,RS,Sul,Pampa,582
+2022,8,SC,Sul,Mata Atlântica,494
+2022,9,AC,Norte,Amazônia,2423
+2022,9,AM,Norte,Amazônia,1935
+2022,9,AP,Norte,Amazônia,3201
+2022,9,PA,Norte,Amazônia,2279
+2022,9,RO,Norte,Amazônia,1955
+2022,9,RR,Norte,Amazônia,1737
+2022,9,TO,Norte,Cerrado,2788
+2022,9,AL,Nordeste,Mata Atlântica,693
+2022,9,BA,Nordeste,Caatinga,567
+2022,9,CE,Nordeste,Caatinga,453
+2022,9,MA,Nordeste,Cerrado,2387
+2022,9,PB,Nordeste,Caatinga,555
+2022,9,PE,Nordeste,Caatinga,710
+2022,9,PI,Nordeste,Caatinga,680
+2022,9,RN,Nordeste,Caatinga,577
+2022,9,SE,Nordeste,Caatinga,515
+2022,9,GO,Centro-Oeste,Cerrado,3367
+2022,9,MS,Centro-Oeste,Cerrado,2463
+2022,9,MT,Centro-Oeste,Cerrado,2859
+2022,9,ES,Sudeste,Mata Atlântica,483
+2022,9,MG,Sudeste,Cerrado,2516
+2022,9,RJ,Sudeste,Mata Atlântica,435
+2022,9,SP,Sudeste,Mata Atlântica,637
+2022,9,PR,Sul,Mata Atlântica,831
+2022,9,RS,Sul,Pampa,586
+2022,9,SC,Sul,Mata Atlântica,440
+2022,10,AC,Norte,Amazônia,1746
+2022,10,AM,Norte,Amazônia,2351
+2022,10,AP,Norte,Amazônia,1965
+2022,10,PA,Norte,Amazônia,1733
+2022,10,RO,Norte,Amazônia,2975
+2022,10,RR,Norte,Amazônia,2470
+2022,10,TO,Norte,Cerrado,2183
+2022,10,AL,Nordeste,Mata Atlântica,804
+2022,10,BA,Nordeste,Caatinga,472
+2022,10,CE,Nordeste,Caatinga,828
+2022,10,MA,Nordeste,Cerrado,2225
+2022,10,PB,Nordeste,Caatinga,799
+2022,10,PE,Nordeste,Caatinga,678
+2022,10,PI,Nordeste,Caatinga,773
+2022,10,RN,Nordeste,Caatinga,840
+2022,10,SE,Nordeste,Caatinga,545
+2022,10,GO,Centro-Oeste,Cerrado,3322
+2022,10,MS,Centro-Oeste,Cerrado,2353
+2022,10,MT,Centro-Oeste,Cerrado,2347
+2022,10,ES,Sudeste,Mata Atlântica,567
+2022,10,MG,Sudeste,Cerrado,2611
+2022,10,RJ,Sudeste,Mata Atlântica,488
+2022,10,SP,Sudeste,Mata Atlântica,657
+2022,10,PR,Sul,Mata Atlântica,652
+2022,10,RS,Sul,Pampa,746
+2022,10,SC,Sul,Mata Atlântica,776
+2022,11,AC,Norte,Amazônia,390
+2022,11,AM,Norte,Amazônia,352
+2022,11,AP,Norte,Amazônia,341
+2022,11,PA,Norte,Amazônia,323
+2022,11,RO,Norte,Amazônia,286
+2022,11,RR,Norte,Amazônia,363
+2022,11,TO,Norte,Cerrado,344
+2022,11,AL,Nordeste,Mata Atlântica,133
+2022,11,BA,Nordeste,Caatinga,105
+2022,11,CE,Nordeste,Caatinga,91
+2022,11,MA,Nordeste,Cerrado,428
+2022,11,PB,Nordeste,Caatinga,77
+2022,11,PE,Nordeste,Caatinga,97
+2022,11,PI,Nordeste,Caatinga,110
+2022,11,RN,Nordeste,Caatinga,100
+2022,11,SE,Nordeste,Caatinga,94
+2022,11,GO,Centro-Oeste,Cerrado,540
+2022,11,MS,Centro-Oeste,Cerrado,509
+2022,11,MT,Centro-Oeste,Cerrado,440
+2022,11,ES,Sudeste,Mata Atlântica,106
+2022,11,MG,Sudeste,Cerrado,439
+2022,11,RJ,Sudeste,Mata Atlântica,81
+2022,11,SP,Sudeste,Mata Atlântica,94
+2022,11,PR,Sul,Mata Atlântica,70
+2022,11,RS,Sul,Pampa,99
+2022,11,SC,Sul,Mata Atlântica,104
+2022,12,AC,Norte,Amazônia,332
+2022,12,AM,Norte,Amazônia,532
+2022,12,AP,Norte,Amazônia,517
+2022,12,PA,Norte,Amazônia,466
+2022,12,RO,Norte,Amazônia,415
+2022,12,RR,Norte,Amazônia,506
+2022,12,TO,Norte,Cerrado,306
+2022,12,AL,Nordeste,Mata Atlântica,121
+2022,12,BA,Nordeste,Caatinga,76
+2022,12,CE,Nordeste,Caatinga,121
+2022,12,MA,Nordeste,Cerrado,345
+2022,12,PB,Nordeste,Caatinga,127
+2022,12,PE,Nordeste,Caatinga,131
+2022,12,PI,Nordeste,Caatinga,77
+2022,12,RN,Nordeste,Caatinga,99
+2022,12,SE,Nordeste,Caatinga,134
+2022,12,GO,Centro-Oeste,Cerrado,402
+2022,12,MS,Centro-Oeste,Cerrado,505
+2022,12,MT,Centro-Oeste,Cerrado,430
+2022,12,ES,Sudeste,Mata Atlântica,93
+2022,12,MG,Sudeste,Cerrado,348
+2022,12,RJ,Sudeste,Mata Atlântica,81
+2022,12,SP,Sudeste,Mata Atlântica,119
+2022,12,PR,Sul,Mata Atlântica,93
+2022,12,RS,Sul,Pampa,102
+2022,12,SC,Sul,Mata Atlântica,101
+2023,1,AC,Norte,Amazônia,438
+2023,1,AM,Norte,Amazônia,518
+2023,1,AP,Norte,Amazônia,550
+2023,1,PA,Norte,Amazônia,390
+2023,1,RO,Norte,Amazônia,507
+2023,1,RR,Norte,Amazônia,490
+2023,1,TO,Norte,Cerrado,437
+2023,1,AL,Nordeste,Mata Atlântica,135
+2023,1,BA,Nordeste,Caatinga,83
+2023,1,CE,Nordeste,Caatinga,77
+2023,1,MA,Nordeste,Cerrado,514
+2023,1,PB,Nordeste,Caatinga,99
+2023,1,PE,Nordeste,Caatinga,128
+2023,1,PI,Nordeste,Caatinga,131
+2023,1,RN,Nordeste,Caatinga,73
+2023,1,SE,Nordeste,Caatinga,130
+2023,1,GO,Centro-Oeste,Cerrado,402
+2023,1,MS,Centro-Oeste,Cerrado,419
+2023,1,MT,Centro-Oeste,Cerrado,451
+2023,1,ES,Sudeste,Mata Atlântica,133
+2023,1,MG,Sudeste,Cerrado,283
+2023,1,RJ,Sudeste,Mata Atlântica,102
+2023,1,SP,Sudeste,Mata Atlântica,117
+2023,1,PR,Sul,Mata Atlântica,119
+2023,1,RS,Sul,Pampa,117
+2023,1,SC,Sul,Mata Atlântica,78
+2023,2,AC,Norte,Amazônia,360
+2023,2,AM,Norte,Amazônia,377
+2023,2,AP,Norte,Amazônia,501
+2023,2,PA,Norte,Amazônia,355
+2023,2,RO,Norte,Amazônia,336
+2023,2,RR,Norte,Amazônia,543
+2023,2,TO,Norte,Cerrado,280
+2023,2,AL,Nordeste,Mata Atlântica,138
+2023,2,BA,Nordeste,Caatinga,116
+2023,2,CE,Nordeste,Caatinga,126
+2023,2,MA,Nordeste,Cerrado,359
+2023,2,PB,Nordeste,Caatinga,70
+2023,2,PE,Nordeste,Caatinga,120
+2023,2,PI,Nordeste,Caatinga,127
+2023,2,RN,Nordeste,Caatinga,120
+2023,2,SE,Nordeste,Caatinga,79
+2023,2,GO,Centro-Oeste,Cerrado,487
+2023,2,MS,Centro-Oeste,Cerrado,491
+2023,2,MT,Centro-Oeste,Cerrado,460
+2023,2,ES,Sudeste,Mata Atlântica,122
+2023,2,MG,Sudeste,Cerrado,512
+2023,2,RJ,Sudeste,Mata Atlântica,112
+2023,2,SP,Sudeste,Mata Atlântica,75
+2023,2,PR,Sul,Mata Atlântica,103
+2023,2,RS,Sul,Pampa,74
+2023,2,SC,Sul,Mata Atlântica,97
+2023,3,AC,Norte,Amazônia,390
+2023,3,AM,Norte,Amazônia,296
+2023,3,AP,Norte,Amazônia,374
+2023,3,PA,Norte,Amazônia,308
+2023,3,RO,Norte,Amazônia,502
+2023,3,RR,Norte,Amazônia,540
+2023,3,TO,Norte,Cerrado,297
+2023,3,AL,Nordeste,Mata Atlântica,135
+2023,3,BA,Nordeste,Caatinga,105
+2023,3,CE,Nordeste,Caatinga,90
+2023,3,MA,Nordeste,Cerrado,299
+2023,3,PB,Nordeste,Caatinga,104
+2023,3,PE,Nordeste,Caatinga,124
+2023,3,PI,Nordeste,Caatinga,118
+2023,3,RN,Nordeste,Caatinga,72
+2023,3,SE,Nordeste,Caatinga,74
+2023,3,GO,Centro-Oeste,Cerrado,389
+2023,3,MS,Centro-Oeste,Cerrado,359
+2023,3,MT,Centro-Oeste,Cerrado,342
+2023,3,ES,Sudeste,Mata Atlântica,88
+2023,3,MG,Sudeste,Cerrado,500
+2023,3,RJ,Sudeste,Mata Atlântica,133
+2023,3,SP,Sudeste,Mata Atlântica,97
+2023,3,PR,Sul,Mata Atlântica,132
+2023,3,RS,Sul,Pampa,91
+2023,3,SC,Sul,Mata Atlântica,102
+2023,4,AC,Norte,Amazônia,340
+2023,4,AM,Norte,Amazônia,455
+2023,4,AP,Norte,Amazônia,549
+2023,4,PA,Norte,Amazônia,445
+2023,4,RO,Norte,Amazônia,377
+2023,4,RR,Norte,Amazônia,457
+2023,4,TO,Norte,Cerrado,311
+2023,4,AL,Nordeste,Mata Atlântica,131
+2023,4,BA,Nordeste,Caatinga,104
+2023,4,CE,Nordeste,Caatinga,100
+2023,4,MA,Nordeste,Cerrado,440
+2023,4,PB,Nordeste,Caatinga,112
+2023,4,PE,Nordeste,Caatinga,74
+2023,4,PI,Nordeste,Caatinga,116
+2023,4,RN,Nordeste,Caatinga,86
+2023,4,SE,Nordeste,Caatinga,119
+2023,4,GO,Centro-Oeste,Cerrado,506
+2023,4,MS,Centro-Oeste,Cerrado,501
+2023,4,MT,Centro-Oeste,Cerrado,431
+2023,4,ES,Sudeste,Mata Atlântica,105
+2023,4,MG,Sudeste,Cerrado,317
+2023,4,RJ,Sudeste,Mata Atlântica,123
+2023,4,SP,Sudeste,Mata Atlântica,88
+2023,4,PR,Sul,Mata Atlântica,103
+2023,4,RS,Sul,Pampa,89
+2023,4,SC,Sul,Mata Atlântica,78
+2023,5,AC,Norte,Amazônia,452
+2023,5,AM,Norte,Amazônia,292
+2023,5,AP,Norte,Amazônia,485
+2023,5,PA,Norte,Amazônia,365
+2023,5,RO,Norte,Amazônia,277
+2023,5,RR,Norte,Amazônia,419
+2023,5,TO,Norte,Cerrado,290
+2023,5,AL,Nordeste,Mata Atlântica,88
+2023,5,BA,Nordeste,Caatinga,118
+2023,5,CE,Nordeste,Caatinga,73
+2023,5,MA,Nordeste,Cerrado,510
+2023,5,PB,Nordeste,Caatinga,69
+2023,5,PE,Nordeste,Caatinga,86
+2023,5,PI,Nordeste,Caatinga,120
+2023,5,RN,Nordeste,Caatinga,91
+2023,5,SE,Nordeste,Caatinga,76
+2023,5,GO,Centro-Oeste,Cerrado,377
+2023,5,MS,Centro-Oeste,Cerrado,352
+2023,5,MT,Centro-Oeste,Cerrado,511
+2023,5,ES,Sudeste,Mata Atlântica,91
+2023,5,MG,Sudeste,Cerrado,496
+2023,5,RJ,Sudeste,Mata Atlântica,131
+2023,5,SP,Sudeste,Mata Atlântica,99
+2023,5,PR,Sul,Mata Atlântica,132
+2023,5,RS,Sul,Pampa,95
+2023,5,SC,Sul,Mata Atlântica,136
+2023,6,AC,Norte,Amazônia,302
+2023,6,AM,Norte,Amazônia,468
+2023,6,AP,Norte,Amazônia,414
+2023,6,PA,Norte,Amazônia,385
+2023,6,RO,Norte,Amazônia,453
+2023,6,RR,Norte,Amazônia,473
+2023,6,TO,Norte,Cerrado,278
+2023,6,AL,Nordeste,Mata Atlântica,81
+2023,6,BA,Nordeste,Caatinga,118
+2023,6,CE,Nordeste,Caatinga,115
+2023,6,MA,Nordeste,Cerrado,546
+2023,6,PB,Nordeste,Caatinga,122
+2023,6,PE,Nordeste,Caatinga,135
+2023,6,PI,Nordeste,Caatinga,118
+2023,6,RN,Nordeste,Caatinga,90
+2023,6,SE,Nordeste,Caatinga,76
+2023,6,GO,Centro-Oeste,Cerrado,494
+2023,6,MS,Centro-Oeste,Cerrado,456
+2023,6,MT,Centro-Oeste,Cerrado,291
+2023,6,ES,Sudeste,Mata Atlântica,94
+2023,6,MG,Sudeste,Cerrado,543
+2023,6,RJ,Sudeste,Mata Atlântica,104
+2023,6,SP,Sudeste,Mata Atlântica,99
+2023,6,PR,Sul,Mata Atlântica,101
+2023,6,RS,Sul,Pampa,83
+2023,6,SC,Sul,Mata Atlântica,95
+2023,7,AC,Norte,Amazônia,2377
+2023,7,AM,Norte,Amazônia,1826
+2023,7,AP,Norte,Amazônia,3068
+2023,7,PA,Norte,Amazônia,2459
+2023,7,RO,Norte,Amazônia,3163
+2023,7,RR,Norte,Amazônia,3212
+2023,7,TO,Norte,Cerrado,2104
+2023,7,AL,Nordeste,Mata Atlântica,719
+2023,7,BA,Nordeste,Caatinga,638
+2023,7,CE,Nordeste,Caatinga,815
+2023,7,MA,Nordeste,Cerrado,2110
+2023,7,PB,Nordeste,Caatinga,728
+2023,7,PE,Nordeste,Caatinga,697
+2023,7,PI,Nordeste,Caatinga,562
+2023,7,RN,Nordeste,Caatinga,493
+2023,7,SE,Nordeste,Caatinga,716
+2023,7,GO,Centro-Oeste,Cerrado,3018
+2023,7,MS,Centro-Oeste,Cerrado,2283
+2023,7,MT,Centro-Oeste,Cerrado,2855
+2023,7,ES,Sudeste,Mata Atlântica,605
+2023,7,MG,Sudeste,Cerrado,2974
+2023,7,RJ,Sudeste,Mata Atlântica,520
+2023,7,SP,Sudeste,Mata Atlântica,820
+2023,7,PR,Sul,Mata Atlântica,558
+2023,7,RS,Sul,Pampa,593
+2023,7,SC,Sul,Mata Atlântica,459
+2023,8,AC,Norte,Amazônia,1929
+2023,8,AM,Norte,Amazônia,2631
+2023,8,AP,Norte,Amazônia,2200
+2023,8,PA,Norte,Amazônia,3186
+2023,8,RO,Norte,Amazônia,1761
+2023,8,RR,Norte,Amazônia,2394
+2023,8,TO,Norte,Cerrado,2321
+2023,8,AL,Nordeste,Mata Atlântica,442
+2023,8,BA,Nordeste,Caatinga,487
+2023,8,CE,Nordeste,Caatinga,613
+2023,8,MA,Nordeste,Cerrado,2591
+2023,8,PB,Nordeste,Caatinga,609
+2023,8,PE,Nordeste,Caatinga,664
+2023,8,PI,Nordeste,Caatinga,692
+2023,8,RN,Nordeste,Caatinga,438
+2023,8,SE,Nordeste,Caatinga,635
+2023,8,GO,Centro-Oeste,Cerrado,3408
+2023,8,MS,Centro-Oeste,Cerrado,2637
+2023,8,MT,Centro-Oeste,Cerrado,2912
+2023,8,ES,Sudeste,Mata Atlântica,569
+2023,8,MG,Sudeste,Cerrado,3079
+2023,8,RJ,Sudeste,Mata Atlântica,769
+2023,8,SP,Sudeste,Mata Atlântica,660
+2023,8,PR,Sul,Mata Atlântica,857
+2023,8,RS,Sul,Pampa,488
+2023,8,SC,Sul,Mata Atlântica,441
+2023,9,AC,Norte,Amazônia,3072
+2023,9,AM,Norte,Amazônia,3137
+2023,9,AP,Norte,Amazônia,1944
+2023,9,PA,Norte,Amazônia,2197
+2023,9,RO,Norte,Amazônia,1766
+2023,9,RR,Norte,Amazônia,2245
+2023,9,TO,Norte,Cerrado,3078
+2023,9,AL,Nordeste,Mata Atlântica,658
+2023,9,BA,Nordeste,Caatinga,585
+2023,9,CE,Nordeste,Caatinga,595
+2023,9,MA,Nordeste,Cerrado,1738
+2023,9,PB,Nordeste,Caatinga,564
+2023,9,PE,Nordeste,Caatinga,714
+2023,9,PI,Nordeste,Caatinga,856
+2023,9,RN,Nordeste,Caatinga,801
+2023,9,SE,Nordeste,Caatinga,444
+2023,9,GO,Centro-Oeste,Cerrado,3295
+2023,9,MS,Centro-Oeste,Cerrado,3095
+2023,9,MT,Centro-Oeste,Cerrado,3090
+2023,9,ES,Sudeste,Mata Atlântica,632
+2023,9,MG,Sudeste,Cerrado,2426
+2023,9,RJ,Sudeste,Mata Atlântica,565
+2023,9,SP,Sudeste,Mata Atlântica,462
+2023,9,PR,Sul,Mata Atlântica,533
+2023,9,RS,Sul,Pampa,541
+2023,9,SC,Sul,Mata Atlântica,644
+2023,10,AC,Norte,Amazônia,3033
+2023,10,AM,Norte,Amazônia,2558
+2023,10,AP,Norte,Amazônia,1836
+2023,10,PA,Norte,Amazônia,3398
+2023,10,RO,Norte,Amazônia,3372
+2023,10,RR,Norte,Amazônia,3099
+2023,10,TO,Norte,Cerrado,3456
+2023,10,AL,Nordeste,Mata Atlântica,670
+2023,10,BA,Nordeste,Caatinga,851
+2023,10,CE,Nordeste,Caatinga,466
+2023,10,MA,Nordeste,Cerrado,2370
+2023,10,PB,Nordeste,Caatinga,531
+2023,10,PE,Nordeste,Caatinga,518
+2023,10,PI,Nordeste,Caatinga,495
+2023,10,RN,Nordeste,Caatinga,704
+2023,10,SE,Nordeste,Caatinga,773
+2023,10,GO,Centro-Oeste,Cerrado,2739
+2023,10,MS,Centro-Oeste,Cerrado,1991
+2023,10,MT,Centro-Oeste,Cerrado,3144
+2023,10,ES,Sudeste,Mata Atlântica,710
+2023,10,MG,Sudeste,Cerrado,2409
+2023,10,RJ,Sudeste,Mata Atlântica,726
+2023,10,SP,Sudeste,Mata Atlântica,546
+2023,10,PR,Sul,Mata Atlântica,583
+2023,10,RS,Sul,Pampa,832
+2023,10,SC,Sul,Mata Atlântica,560
+2023,11,AC,Norte,Amazônia,408
+2023,11,AM,Norte,Amazônia,525
+2023,11,AP,Norte,Amazônia,474
+2023,11,PA,Norte,Amazônia,295
+2023,11,RO,Norte,Amazônia,318
+2023,11,RR,Norte,Amazônia,279
+2023,11,TO,Norte,Cerrado,453
+2023,11,AL,Nordeste,Mata Atlântica,100
+2023,11,BA,Nordeste,Caatinga,78
+2023,11,CE,Nordeste,Caatinga,135
+2023,11,MA,Nordeste,Cerrado,424
+2023,11,PB,Nordeste,Caatinga,86
+2023,11,PE,Nordeste,Caatinga,104
+2023,11,PI,Nordeste,Caatinga,116
+2023,11,RN,Nordeste,Caatinga,74
+2023,11,SE,Nordeste,Caatinga,88
+2023,11,GO,Centro-Oeste,Cerrado,501
+2023,11,MS,Centro-Oeste,Cerrado,405
+2023,11,MT,Centro-Oeste,Cerrado,429
+2023,11,ES,Sudeste,Mata Atlântica,99
+2023,11,MG,Sudeste,Cerrado,289
+2023,11,RJ,Sudeste,Mata Atlântica,80
+2023,11,SP,Sudeste,Mata Atlântica,100
+2023,11,PR,Sul,Mata Atlântica,83
+2023,11,RS,Sul,Pampa,72
+2023,11,SC,Sul,Mata Atlântica,128
+2023,12,AC,Norte,Amazônia,550
+2023,12,AM,Norte,Amazônia,498
+2023,12,AP,Norte,Amazônia,514
+2023,12,PA,Norte,Amazônia,344
+2023,12,RO,Norte,Amazônia,544
+2023,12,RR,Norte,Amazônia,332
+2023,12,TO,Norte,Cerrado,542
+2023,12,AL,Nordeste,Mata Atlântica,138
+2023,12,BA,Nordeste,Caatinga,118
+2023,12,CE,Nordeste,Caatinga,137
+2023,12,MA,Nordeste,Cerrado,435
+2023,12,PB,Nordeste,Caatinga,87
+2023,12,PE,Nordeste,Caatinga,99
+2023,12,PI,Nordeste,Caatinga,110
+2023,12,RN,Nordeste,Caatinga,74
+2023,12,SE,Nordeste,Caatinga,112
+2023,12,GO,Centro-Oeste,Cerrado,550
+2023,12,MS,Centro-Oeste,Cerrado,330
+2023,12,MT,Centro-Oeste,Cerrado,497
+2023,12,ES,Sudeste,Mata Atlântica,132
+2023,12,MG,Sudeste,Cerrado,539
+2023,12,RJ,Sudeste,Mata Atlântica,136
+2023,12,SP,Sudeste,Mata Atlântica,105
+2023,12,PR,Sul,Mata Atlântica,137
+2023,12,RS,Sul,Pampa,122
+2023,12,SC,Sul,Mata Atlântica,80
+2024,1,AC,Norte,Amazônia,420
+2024,1,AM,Norte,Amazônia,488
+2024,1,AP,Norte,Amazônia,354
+2024,1,PA,Norte,Amazônia,466
+2024,1,RO,Norte,Amazônia,474
+2024,1,RR,Norte,Amazônia,330
+2024,1,TO,Norte,Cerrado,445
+2024,1,AL,Nordeste,Mata Atlântica,125
+2024,1,BA,Nordeste,Caatinga,106
+2024,1,CE,Nordeste,Caatinga,71
+2024,1,MA,Nordeste,Cerrado,287
+2024,1,PB,Nordeste,Caatinga,96
+2024,1,PE,Nordeste,Caatinga,136
+2024,1,PI,Nordeste,Caatinga,87
+2024,1,RN,Nordeste,Caatinga,116
+2024,1,SE,Nordeste,Caatinga,86
+2024,1,GO,Centro-Oeste,Cerrado,375
+2024,1,MS,Centro-Oeste,Cerrado,525
+2024,1,MT,Centro-Oeste,Cerrado,491
+2024,1,ES,Sudeste,Mata Atlântica,77
+2024,1,MG,Sudeste,Cerrado,406
+2024,1,RJ,Sudeste,Mata Atlântica,73
+2024,1,SP,Sudeste,Mata Atlântica,105
+2024,1,PR,Sul,Mata Atlântica,118
+2024,1,RS,Sul,Pampa,79
+2024,1,SC,Sul,Mata Atlântica,91
+2024,2,AC,Norte,Amazônia,397
+2024,2,AM,Norte,Amazônia,546
+2024,2,AP,Norte,Amazônia,567
+2024,2,PA,Norte,Amazônia,297
+2024,2,RO,Norte,Amazônia,500
+2024,2,RR,Norte,Amazônia,390
+2024,2,TO,Norte,Cerrado,396
+2024,2,AL,Nordeste,Mata Atlântica,124
+2024,2,BA,Nordeste,Caatinga,136
+2024,2,CE,Nordeste,Caatinga,138
+2024,2,MA,Nordeste,Cerrado,448
+2024,2,PB,Nordeste,Caatinga,96
+2024,2,PE,Nordeste,Caatinga,127
+2024,2,PI,Nordeste,Caatinga,88
+2024,2,RN,Nordeste,Caatinga,111
+2024,2,SE,Nordeste,Caatinga,96
+2024,2,GO,Centro-Oeste,Cerrado,471
+2024,2,MS,Centro-Oeste,Cerrado,352
+2024,2,MT,Centro-Oeste,Cerrado,338
+2024,2,ES,Sudeste,Mata Atlântica,136
+2024,2,MG,Sudeste,Cerrado,313
+2024,2,RJ,Sudeste,Mata Atlântica,107
+2024,2,SP,Sudeste,Mata Atlântica,86
+2024,2,PR,Sul,Mata Atlântica,73
+2024,2,RS,Sul,Pampa,73
+2024,2,SC,Sul,Mata Atlântica,83
+2024,3,AC,Norte,Amazônia,531
+2024,3,AM,Norte,Amazônia,364
+2024,3,AP,Norte,Amazônia,554
+2024,3,PA,Norte,Amazônia,449
+2024,3,RO,Norte,Amazônia,408
+2024,3,RR,Norte,Amazônia,449
+2024,3,TO,Norte,Cerrado,431
+2024,3,AL,Nordeste,Mata Atlântica,125
+2024,3,BA,Nordeste,Caatinga,91
+2024,3,CE,Nordeste,Caatinga,96
+2024,3,MA,Nordeste,Cerrado,538
+2024,3,PB,Nordeste,Caatinga,138
+2024,3,PE,Nordeste,Caatinga,134
+2024,3,PI,Nordeste,Caatinga,100
+2024,3,RN,Nordeste,Caatinga,126
+2024,3,SE,Nordeste,Caatinga,104
+2024,3,GO,Centro-Oeste,Cerrado,426
+2024,3,MS,Centro-Oeste,Cerrado,342
+2024,3,MT,Centro-Oeste,Cerrado,452
+2024,3,ES,Sudeste,Mata Atlântica,84
+2024,3,MG,Sudeste,Cerrado,378
+2024,3,RJ,Sudeste,Mata Atlântica,131
+2024,3,SP,Sudeste,Mata Atlântica,85
+2024,3,PR,Sul,Mata Atlântica,76
+2024,3,RS,Sul,Pampa,76
+2024,3,SC,Sul,Mata Atlântica,138
+2024,4,AC,Norte,Amazônia,428
+2024,4,AM,Norte,Amazônia,400
+2024,4,AP,Norte,Amazônia,515
+2024,4,PA,Norte,Amazônia,522
+2024,4,RO,Norte,Amazônia,378
+2024,4,RR,Norte,Amazônia,481
+2024,4,TO,Norte,Cerrado,503
+2024,4,AL,Nordeste,Mata Atlântica,117
+2024,4,BA,Nordeste,Caatinga,81
+2024,4,CE,Nordeste,Caatinga,133
+2024,4,MA,Nordeste,Cerrado,437
+2024,4,PB,Nordeste,Caatinga,91
+2024,4,PE,Nordeste,Caatinga,101
+2024,4,PI,Nordeste,Caatinga,73
+2024,4,RN,Nordeste,Caatinga,80
+2024,4,SE,Nordeste,Caatinga,125
+2024,4,GO,Centro-Oeste,Cerrado,284
+2024,4,MS,Centro-Oeste,Cerrado,402
+2024,4,MT,Centro-Oeste,Cerrado,433
+2024,4,ES,Sudeste,Mata Atlântica,75
+2024,4,MG,Sudeste,Cerrado,561
+2024,4,RJ,Sudeste,Mata Atlântica,87
+2024,4,SP,Sudeste,Mata Atlântica,92
+2024,4,PR,Sul,Mata Atlântica,92
+2024,4,RS,Sul,Pampa,87
+2024,4,SC,Sul,Mata Atlântica,71
+2024,5,AC,Norte,Amazônia,491
+2024,5,AM,Norte,Amazônia,559
+2024,5,AP,Norte,Amazônia,348
+2024,5,PA,Norte,Amazônia,473
+2024,5,RO,Norte,Amazônia,495
+2024,5,RR,Norte,Amazônia,525
+2024,5,TO,Norte,Cerrado,404
+2024,5,AL,Nordeste,Mata Atlântica,92
+2024,5,BA,Nordeste,Caatinga,94
+2024,5,CE,Nordeste,Caatinga,121
+2024,5,MA,Nordeste,Cerrado,516
+2024,5,PB,Nordeste,Caatinga,84
+2024,5,PE,Nordeste,Caatinga,97
+2024,5,PI,Nordeste,Caatinga,135
+2024,5,RN,Nordeste,Caatinga,128
+2024,5,SE,Nordeste,Caatinga,141
+2024,5,GO,Centro-Oeste,Cerrado,499
+2024,5,MS,Centro-Oeste,Cerrado,396
+2024,5,MT,Centro-Oeste,Cerrado,452
+2024,5,ES,Sudeste,Mata Atlântica,118
+2024,5,MG,Sudeste,Cerrado,306
+2024,5,RJ,Sudeste,Mata Atlântica,109
+2024,5,SP,Sudeste,Mata Atlântica,121
+2024,5,PR,Sul,Mata Atlântica,83
+2024,5,RS,Sul,Pampa,126
+2024,5,SC,Sul,Mata Atlântica,112
+2024,6,AC,Norte,Amazônia,555
+2024,6,AM,Norte,Amazônia,296
+2024,6,AP,Norte,Amazônia,359
+2024,6,PA,Norte,Amazônia,455
+2024,6,RO,Norte,Amazônia,368
+2024,6,RR,Norte,Amazônia,487
+2024,6,TO,Norte,Cerrado,500
+2024,6,AL,Nordeste,Mata Atlântica,78
+2024,6,BA,Nordeste,Caatinga,107
+2024,6,CE,Nordeste,Caatinga,107
+2024,6,MA,Nordeste,Cerrado,389
+2024,6,PB,Nordeste,Caatinga,137
+2024,6,PE,Nordeste,Caatinga,129
+2024,6,PI,Nordeste,Caatinga,120
+2024,6,RN,Nordeste,Caatinga,121
+2024,6,SE,Nordeste,Caatinga,103
+2024,6,GO,Centro-Oeste,Cerrado,546
+2024,6,MS,Centro-Oeste,Cerrado,482
+2024,6,MT,Centro-Oeste,Cerrado,491
+2024,6,ES,Sudeste,Mata Atlântica,132
+2024,6,MG,Sudeste,Cerrado,362
+2024,6,RJ,Sudeste,Mata Atlântica,128
+2024,6,SP,Sudeste,Mata Atlântica,85
+2024,6,PR,Sul,Mata Atlântica,95
+2024,6,RS,Sul,Pampa,94
+2024,6,SC,Sul,Mata Atlântica,140
+2024,7,AC,Norte,Amazônia,3300
+2024,7,AM,Norte,Amazônia,3024
+2024,7,AP,Norte,Amazônia,3070
+2024,7,PA,Norte,Amazônia,2777
+2024,7,RO,Norte,Amazônia,3461
+2024,7,RR,Norte,Amazônia,2660
+2024,7,TO,Norte,Cerrado,2454
+2024,7,AL,Nordeste,Mata Atlântica,516
+2024,7,BA,Nordeste,Caatinga,793
+2024,7,CE,Nordeste,Caatinga,770
+2024,7,MA,Nordeste,Cerrado,2461
+2024,7,PB,Nordeste,Caatinga,455
+2024,7,PE,Nordeste,Caatinga,817
+2024,7,PI,Nordeste,Caatinga,449
+2024,7,RN,Nordeste,Caatinga,757
+2024,7,SE,Nordeste,Caatinga,875
+2024,7,GO,Centro-Oeste,Cerrado,2556
+2024,7,MS,Centro-Oeste,Cerrado,2195
+2024,7,MT,Centro-Oeste,Cerrado,3031
+2024,7,ES,Sudeste,Mata Atlântica,807
+2024,7,MG,Sudeste,Cerrado,2749
+2024,7,RJ,Sudeste,Mata Atlântica,874
+2024,7,SP,Sudeste,Mata Atlântica,467
+2024,7,PR,Sul,Mata Atlântica,668
+2024,7,RS,Sul,Pampa,763
+2024,7,SC,Sul,Mata Atlântica,827
+2024,8,AC,Norte,Amazônia,2096
+2024,8,AM,Norte,Amazônia,3200
+2024,8,AP,Norte,Amazônia,2760
+2024,8,PA,Norte,Amazônia,2483
+2024,8,RO,Norte,Amazônia,2012
+2024,8,RR,Norte,Amazônia,3316
+2024,8,TO,Norte,Cerrado,2057
+2024,8,AL,Nordeste,Mata Atlântica,582
+2024,8,BA,Nordeste,Caatinga,573
+2024,8,CE,Nordeste,Caatinga,831
+2024,8,MA,Nordeste,Cerrado,2974
+2024,8,PB,Nordeste,Caatinga,798
+2024,8,PE,Nordeste,Caatinga,555
+2024,8,PI,Nordeste,Caatinga,722
+2024,8,RN,Nordeste,Caatinga,698
+2024,8,SE,Nordeste,Caatinga,814
+2024,8,GO,Centro-Oeste,Cerrado,3389
+2024,8,MS,Centro-Oeste,Cerrado,1799
+2024,8,MT,Centro-Oeste,Cerrado,2976
+2024,8,ES,Sudeste,Mata Atlântica,467
+2024,8,MG,Sudeste,Cerrado,2753
+2024,8,RJ,Sudeste,Mata Atlântica,572
+2024,8,SP,Sudeste,Mata Atlântica,580
+2024,8,PR,Sul,Mata Atlântica,601
+2024,8,RS,Sul,Pampa,720
+2024,8,SC,Sul,Mata Atlântica,592
+2024,9,AC,Norte,Amazônia,3080
+2024,9,AM,Norte,Amazônia,2497
+2024,9,AP,Norte,Amazônia,1899
+2024,9,PA,Norte,Amazônia,3171
+2024,9,RO,Norte,Amazônia,2286
+2024,9,RR,Norte,Amazônia,2547
+2024,9,TO,Norte,Cerrado,2996
+2024,9,AL,Nordeste,Mata Atlântica,592
+2024,9,BA,Nordeste,Caatinga,469
+2024,9,CE,Nordeste,Caatinga,610
+2024,9,MA,Nordeste,Cerrado,3457
+2024,9,PB,Nordeste,Caatinga,729
+2024,9,PE,Nordeste,Caatinga,742
+2024,9,PI,Nordeste,Caatinga,725
+2024,9,RN,Nordeste,Caatinga,532
+2024,9,SE,Nordeste,Caatinga,630
+2024,9,GO,Centro-Oeste,Cerrado,3113
+2024,9,MS,Centro-Oeste,Cerrado,1958
+2024,9,MT,Centro-Oeste,Cerrado,2272
+2024,9,ES,Sudeste,Mata Atlântica,567
+2024,9,MG,Sudeste,Cerrado,2546
+2024,9,RJ,Sudeste,Mata Atlântica,880
+2024,9,SP,Sudeste,Mata Atlântica,474
+2024,9,PR,Sul,Mata Atlântica,675
+2024,9,RS,Sul,Pampa,524
+2024,9,SC,Sul,Mata Atlântica,875
+2024,10,AC,Norte,Amazônia,1979
+2024,10,AM,Norte,Amazônia,2495
+2024,10,AP,Norte,Amazônia,3089
+2024,10,PA,Norte,Amazônia,3030
+2024,10,RO,Norte,Amazônia,2529
+2024,10,RR,Norte,Amazônia,2394
+2024,10,TO,Norte,Cerrado,2484
+2024,10,AL,Nordeste,Mata Atlântica,561
+2024,10,BA,Nordeste,Caatinga,535
+2024,10,CE,Nordeste,Caatinga,659
+2024,10,MA,Nordeste,Cerrado,2255
+2024,10,PB,Nordeste,Caatinga,572
+2024,10,PE,Nordeste,Caatinga,736
+2024,10,PI,Nordeste,Caatinga,875
+2024,10,RN,Nordeste,Caatinga,712
+2024,10,SE,Nordeste,Caatinga,478
+2024,10,GO,Centro-Oeste,Cerrado,1912
+2024,10,MS,Centro-Oeste,Cerrado,3469
+2024,10,MT,Centro-Oeste,Cerrado,2306
+2024,10,ES,Sudeste,Mata Atlântica,485
+2024,10,MG,Sudeste,Cerrado,2843
+2024,10,RJ,Sudeste,Mata Atlântica,721
+2024,10,SP,Sudeste,Mata Atlântica,732
+2024,10,PR,Sul,Mata Atlântica,563
+2024,10,RS,Sul,Pampa,451
+2024,10,SC,Sul,Mata Atlântica,873
+2024,11,AC,Norte,Amazônia,355
+2024,11,AM,Norte,Amazônia,476
+2024,11,AP,Norte,Amazônia,485
+2024,11,PA,Norte,Amazônia,458
+2024,11,RO,Norte,Amazônia,373
+2024,11,RR,Norte,Amazônia,361
+2024,11,TO,Norte,Cerrado,454
+2024,11,AL,Nordeste,Mata Atlântica,132
+2024,11,BA,Nordeste,Caatinga,138
+2024,11,CE,Nordeste,Caatinga,78
+2024,11,MA,Nordeste,Cerrado,328
+2024,11,PB,Nordeste,Caatinga,138
+2024,11,PE,Nordeste,Caatinga,123
+2024,11,PI,Nordeste,Caatinga,133
+2024,11,RN,Nordeste,Caatinga,85
+2024,11,SE,Nordeste,Caatinga,112
+2024,11,GO,Centro-Oeste,Cerrado,483
+2024,11,MS,Centro-Oeste,Cerrado,477
+2024,11,MT,Centro-Oeste,Cerrado,400
+2024,11,ES,Sudeste,Mata Atlântica,72
+2024,11,MG,Sudeste,Cerrado,450
+2024,11,RJ,Sudeste,Mata Atlântica,89
+2024,11,SP,Sudeste,Mata Atlântica,103
+2024,11,PR,Sul,Mata Atlântica,139
+2024,11,RS,Sul,Pampa,99
+2024,11,SC,Sul,Mata Atlântica,130
+2024,12,AC,Norte,Amazônia,338
+2024,12,AM,Norte,Amazônia,475
+2024,12,AP,Norte,Amazônia,562
+2024,12,PA,Norte,Amazônia,313
+2024,12,RO,Norte,Amazônia,286
+2024,12,RR,Norte,Amazônia,407
+2024,12,TO,Norte,Cerrado,310
+2024,12,AL,Nordeste,Mata Atlântica,124
+2024,12,BA,Nordeste,Caatinga,136
+2024,12,CE,Nordeste,Caatinga,101
+2024,12,MA,Nordeste,Cerrado,358
+2024,12,PB,Nordeste,Caatinga,102
+2024,12,PE,Nordeste,Caatinga,122
+2024,12,PI,Nordeste,Caatinga,71
+2024,12,RN,Nordeste,Caatinga,113
+2024,12,SE,Nordeste,Caatinga,114
+2024,12,GO,Centro-Oeste,Cerrado,465
+2024,12,MS,Centro-Oeste,Cerrado,353
+2024,12,MT,Centro-Oeste,Cerrado,487
+2024,12,ES,Sudeste,Mata Atlântica,77
+2024,12,MG,Sudeste,Cerrado,341
+2024,12,RJ,Sudeste,Mata Atlântica,133
+2024,12,SP,Sudeste,Mata Atlântica,123
+2024,12,PR,Sul,Mata Atlântica,72
+2024,12,RS,Sul,Pampa,88
+2024,12,SC,Sul,Mata Atlântica,86
